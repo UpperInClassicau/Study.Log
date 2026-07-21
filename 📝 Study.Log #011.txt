@@ -1,0 +1,61 @@
+📝 Study.Log | #011
+🗓️ Dia: 16/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 2 | Fase 27 — Strings.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Strings são um tipo de dado usado para armazenar textos, incluindo letras, números, espaços e símbolos;
+
+• Aprendi como criar e utilizar variáveis do tipo string;
+
+• Aprendi como exibir strings usando o Debug.Log();
+
+• Aprendi como concatenar textos utilizando o operador (+);
+
+• Aprendi como utilizar a interpolação de strings ($"..."), deixando o código mais organizado e legível;
+
+• Aprendi que caracteres especiais, como aspas (\"), precisam ser escapados para fazer parte da própria string;
+
+• Aprendi alguns métodos importantes da classe string, como:
+└ Length (quantidade de caracteres);
+└ ToUpper() (converter para letras maiúsculas);
+└ ToLower() (converter para letras minúsculas);
+└ Contains() (verificar se um texto existe dentro da string);
+└ Replace(), Trim(), Split() e Substring().
+
+• Aprendi que os índices das strings começam em 0 e que métodos como Substring() utilizam números para indicar onde começar e quantos caracteres pegar da string.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Concatenação e interpolação de strings;
+
+• Métodos mais utilizados da classe string;
+
+• Índices das strings e Substring();
+
+• Caracteres especiais como \" e \n.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Criei um script utilizando o conteúdo estudado hoje;
+
+• Utilizei Debug.Log(), ToUpper(), Length, Contains() e interpolação no código que criei hoje;
+
+• Fiz exercícios e respondi um quiz sobre o conteúdo de hoje, acertando todas as perguntas.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📝 Observações:
+• Hoje foi um dia bem legal, aprendi várias coisas úteis para colocar nos meus códigos e que certamente podem me ajudar nos meus próximos projetos, amanha será um grande dia de conteúdo.

@@ -1,0 +1,46 @@
+📝 Study.Log | #008
+🗓️ Dia: 13/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 2 | Fase 20 e 21 — Constantes e Escopo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Constantes (const) são valores que não podem ser alterados após serem declarados no código. Elas devem receber um valor no momento da declaração e podem ser utilizadas em cálculos sem que seu valor seja modificado ou alterado;
+
+• A diferença entre uma variável e uma constante é que a variável pode ter seu valor alterado durante a execução do programa, enquanto a constante mantém sempre o mesmo valor;
+
+• Escopo define a região do código onde uma variável ou uma constante existe e pode ser utilizada dentro de blocoss de classes, métodos, if e laços de repetição;
+└ Variáveis declaradas dentro de um bloco (if, for, while, métodos etc.) só podem ser acessadas dentro desse bloco. Ao chegar no "}", elas deixam de existir;
+└ Um escopo interno pode acessar variáveis declaradas em escopos externos, mas um escopo externo não pode acessar variáveis criadas em escopos internos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Diferença entre uma variável local e uma variável em campo de classe;
+
+• Escopo em métodos e em blocos de código.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz exercícios sobre constantes e escopo;
+
+• Entendi a diferença entre utilizar uma constante em um cálculo e tentar alterar seu valor no código;
+
+• Fiz exercícios de escopo utilizando blocos if;
+
+• Aprendi quais variáveis podem ser acessadas em diferentes escopos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.7/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi o primeiro dia que fiz uma fase da trilha 2, eu ainda vou praticar um pouco de laços de repetição e pensar em ideias para o meu primeiro jogo de guarita para ele ficar muito bem pensado na historia e mecânicas.

@@ -1,0 +1,53 @@
+📝 Study.Log | #002
+🗓️ Dia: 07/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 1 | Fase 2, 3 e 4 — Algoritmos, Fluxogramas e Pseudocódigo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Algoritmos são sequências finitas e organizadas de passos para resolver problemas ou realizar tarefas;
+
+• Fluxogramas são representações gráficas de algoritmos utilizando símbolos, sendo eles:
+└ Oval (Início e fim);
+└ Retângulo (Ação/Processo);
+└ Losango (Decisão);
+└ Paralelogramo (Entrada e saída de dados);
+└ Setas (Linhas de fluxo).
+
+• Pseudocódigo é uma forma de representar um algoritmo por meio de uma escrita estruturada próxima das linguagens de programação, sendo usado como um rascunho antes da criação do código. Ele também ajuda iniciantes a compreenderem lógica de programação;
+
+• O pseudocódigo possui comandos, variáveis e atribuições, sendo eles:
+└ Leia() (Recebe valores ou informações fornecidas pelo usuário);
+└ Escreva() (Exibe informações, textos ou valores na tela);
+└ <- (Usado para atribuir valores a variáveis);
+└ Se/Senão (Estruturas condicionais, equivalentes ao if/else).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Sintaxe do pseudocódigo;
+
+• Símbolos do fluxograma.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• 9 exercícios de algoritmos, fluxogramas e pseudocódigos;
+
+• 2 pseudocódigos escritos;
+
+• 6 códigos/pseudocódigos analisados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9,5/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia muito produtivo. Concluí 3 fases da Trilha de Estudos no mesmo dia e pratiquei bastante o conteúdo estudado.

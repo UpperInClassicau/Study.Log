@@ -1,0 +1,60 @@
+📝 Study.Log | #010
+🗓️ Dia: 15/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 2 | Fase 25 e 26 — Conversão de tipos e Nullable.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Conversão de tipos é transformar um valor de um tipo em outro tipo quando isso é necessário, como converter uma string em um inteiro, por exemplo:
+/*
+string text = "9";
+int num = Convert.ToInt32(text);
+
+Debug.Log(num);
+
+// ou
+
+string text = "9";
+int num = int.Parse(text);
+
+Debug.Log(num);
+*/
+
+• Nullable (?) permite que os tipos de valor (int, float, bool, etc.) possam armazenar null, indicando que ainda não existe um valor. O (?) é usado para possibilitar que aquela variável não tenha nenhum valor, por exemplo:
+/*
+// Exemplo errado:
+
+int num = null;
+
+// Exemplo certo:
+
+int? num = null;
+*/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Os tipos de conversão: ToString(), Convert.ToInt32() e Convert.ToDouble();
+
+• Quando usar um float e um double no código.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Criei um exemplo para praticar usando o que aprendi sobre nullable;
+
+• Criei dois exemplos sobre conversão de tipos para treinar quais tipos eu sei.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• No início tive dificuldade para entender conversão de tipos, mas, depois de criar meus próprios exemplos, consegui compreender o conceito e percebi que minha maior dificuldade era a sintaxe, e não a lógica. Hoje ainda pretendo criar um código para praticar minha lógica e aplicar os conhecimentos que aprendi.

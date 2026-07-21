@@ -1,0 +1,42 @@
+📝 Study.Log | #001
+🗓️ Dia: 06/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 1 | Fase 1 — O que é programação.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Programação é o processo de criar instruções para um computador utilizando uma linguagem de programação para que ele possa realizar tarefas;
+
+• Programa é uma sequência de instruções organizadas escritas em uma linguagem de programação que o computador executa;
+
+• Linguagem de programação é uma ferramenta com regras e sintaxe usada para criar programas e dar instruções ao computador.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Conteúdo estudado hoje;
+
+• Sintaxe do C#.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• 13 exercícios de lógica;
+
+• 2 leituras de códigos;
+
+• 1 código escrito.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9,5/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Consegui entender os conceitos estudados e aplicá-los em um código simples, mas ainda estou pegando prática com a sintaxe do C#.

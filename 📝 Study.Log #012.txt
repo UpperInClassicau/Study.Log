@@ -1,0 +1,82 @@
+📝 Study.Log | #012
+🗓️ Dia: 17/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 2 | Fase 28, 29, 30 e 31 — Arrays, Listas, Matrizes e foreach.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Arrays são como comprar uma prateleira com a capacidade definida de quantas coisas cabem nela, tendo sua estrutura principal:
+/*
+(tipo de dado)[] (nome da variável) = new (tipo de dado novamente)[(quantidade de espaço dentro da variável)];
+*/
+
+• Listas são como eu ter uma mochila que tem a uma capacidade infinita de coisas que podem caber dentro dela, é como um array sem uma definição de capacidade, tendo sua estrutura principal:
+/*
+List<(tipo de dado)> (nome da variável) = new List<(tipo de dado novamente)>();
+*/
+└ É utilizado Add() para adicionar algo a variável da lista, por exemplo:
+/*
+(nome da variável escolhido anteriormente).Add((número, string ou booleano))
+*/
+└ É utilizado Remove() para retirar algo da variável da lista, por exemplo:
+/*
+(nome da variável escolhido anteriormente).Remove((número, string ou booleano que foi colocado anteriormente na variável))
+*/
+
+• Matrizes são como um array so que com várias prateleiras uma emcima da outra, tendo sua estrutura principal:
+/*
+(tipo de dado)[,] (nome da variável) = 
+{
+    {número, string ou booleano 3x},
+    {número, string ou booleano 3x},
+    {número, string ou booleano 3x}
+};
+
+for ((tipo de dado) (nome da variável) = (número, string ou booleano); (nome da variável escolhido anteriormente) (algum operador relacional) (número, string ou booleano); (nome da variável escolhido anterior mente)(++ ou --))
+{
+    for ((tipo de dado) (outro nome da variável) = (número, string ou booleano); (outro nome da variável escolhido anteriormente) (algum operador relacional (número, string ou booleano); (outro nome da variável escolhido anterior mente)(++ ou --))
+    {
+        Debug.Log((nome da variável escolhido no começo)[(segundo nome da variável escolhido anteiormente), (terceiro nome da variável escolhido anteriormente)]);
+    }
+}
+*/
+
+• Foreach é como uma forma simplificada de percorrer pelas coleções da matriz, ele repete os números da matriz em ordem, tendo sua estrutura principal:
+/*
+foreach ((tipo de dado) (nome da variável) in (nome da variável escolhida no começo da matriz anterior))
+{
+    Debug.Log((nome da variável escolhida anteiormente aqui));
+}
+*/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer 15 questões sobre o conteúdo estudado hoje;
+
+• Práticar minha lógica de programação;
+
+• Práticar a sintaxe do conteúdo estudado hoje.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz alguns exemplos de arrays e listas utilizando oque aprendi;
+
+• Fiz alguns exemplos de matrizes e foreach utilizando oque aprendi;
+
+• Fiz 15 questões sobre o conteúdo estudade hoje.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.5/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Amanha eu pretendo passar o dia praticando pois quero praticar conteúdos que não estou tão bom como os laços de repetição e agora um pouco de arrays, listas, matrizes e foreach.

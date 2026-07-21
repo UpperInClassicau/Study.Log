@@ -1,0 +1,40 @@
+📝 Study.Log | #014
+🗓️ Dia: 19/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 2 | Fase 32 e 33 — Random e DateTime.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Random é uma classe da Unity/C# utilizada para gerar valores pseudoaleatórios;
+└ Random.Range() é usado para gerar números aleatórios e combinar o resultado com arrays para criar sistemas como sorteio de armas, inimigos e nomes.
+
+• DateTime é utilizado para trabalhar com datas e horários;
+└ Com isso é possível obter a data e hora atuais (DateTime.Now), acessar as propriedades como Year, Month, Day, Hour, Minute e Second, criar datas específicas, adicionar dias, meses e anos, comparar datas, calcular diferenças utilizando TimeSpan e formatar datas com ToString().
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Sintaxe de formatação de datas;
+
+• TimeSpan e suas propriedades;
+
+• Comparação entre datas.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Resolvi 19 exercícios sobre Random e DateTime, criando sistemas aleatórios e praticando manipulação e comparação de datas.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia muito pratico, eu fiz vários exercicios sobre o conteúdo de hoje e aprendi novos conceitos muito úteis para eu usar nos meus código e deixa-los muito mais complexos e organizados.

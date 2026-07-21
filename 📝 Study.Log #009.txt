@@ -1,0 +1,64 @@
+📝 Study.Log | #009
+🗓️ Dia: 14/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 2 | Fase 22, 23 e 24 — Métodos, Parâmetros e Retorno.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Métodos servem para organizar o código em blocos que executam tarefas específicas. Eles podem receber parâmetros e podem retornar um valor ou não retornar nenhum valor. Para chamá-los, basta escrever o nome do método seguido de parênteses, por exemplo:
+/*
+int ataque = 4
+
+void Start()
+{
+     NomeDoMetodo(3);
+}
+
+int NomeDoMetodo(int defesa)
+{
+     return ataque - defesa;
+}
+*/
+
+• Parâmetros são variáveis declaradas na assinatura dos métodos. Elas recebem os valores enviados quando o método é chamado, por exemplo:
+/*
+int NomeDoMetodo(int defesa) (a defesa é um parâmetro pois faz parte da declaração do método.)
+*/
+
+• Retorno (return) devolve valores para quem chamou o método. Esses valores devem ter o mesmo tipo definido no método, por exemplo:
+/*
+int Somar(int a, int b)
+{
+    return a + b;
+}
+*/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer 15 questões sobre o conteúdo estudado nos últimos 3 dias;
+
+• Quando usar um método, parâmetro e retorno;
+
+• O que parâmetro e retorno.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema de piquenique utilizando o conteúdo estudado hoje para praticar;
+
+• Fiz 15 questões sobre o conteúdo estudado nos últimos 3 dias.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.7/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem legal, aprendi a utilizar parâmetros e return. Como eu já sabia usar métodos, considero que hoje consegui aprofundar meu conhecimento sobre esse assunto.

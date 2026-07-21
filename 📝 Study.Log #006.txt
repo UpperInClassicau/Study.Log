@@ -1,0 +1,77 @@
+📝 Study.Log | #006
+🗓️ Dia: 11/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 1 | Fase 14, 15, 16 e 17 — while, do...while, for e break e continue.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• O (for) é uma estrutura de repetição utilizada quando sabemos (ou conseguimos definir) quantas vezes uma ação deve ser executada. Ele reúne em uma única linha a criação da variável de controle, a condição para continuar a repetição e a atualização dessa variável, tendo a estrutura principal:
+/*
+for (variável ou criação de uma variável; condição; atualização da variável)
+{
+(ação que será executada a quantidade de vezes definida pela condição)
+}
+*/
+
+• O (while) é uma estrutura de repetição utilizada quando não sabemos exatamente quantas vezes uma ação será executada. Enquanto a condição for verdadeira, o bloco de código continuará sendo executado. A condição é verificada antes de cada repetição, tendo a estrutura principal:
+/*
+variável
+
+while (condição)
+{
+(ação que será executada enquanto a condição for verdadeira)
+
+atualização da variável;
+
+}
+*/
+
+• O (do...while) é uma estrutura de repetição semelhante ao (while), porém a ação é executada primeiro e somente depois a condição é verificada. Por isso, o bloco de código será executado pelo menos uma vez, tendo a estrutura principal:
+/*
+variável
+
+do
+{
+(ação que será executada pelo menos uma vez)
+
+atualização da variável;
+
+}
+while (condição);
+*/
+
+• O (break) é utilizado para interromper imediatamente uma estrutura de repetição (for, while ou do...while);
+
+• O (continue) é utilizado para pular apenas a repetição atual e continuar normalmente para a próxima repetição da estrutura de repetição.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer 15 questões sobre o conteúdo estudado anteriormente nos últimos 3 dias;
+
+• Revisar o conteúdo estudado hoje;
+
+• Revisar a estrutura principal do for, while e do...while;
+
+• Entender a diferença entre for, while e do...while.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz 15 questões sobre o conteúdo estudados nos ultimos 3 dias;     
+
+• Criei um mini-jogo de terror utilizando (for), (while) e (do...while).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.5/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bastante produtivo, ainda não entendi COMPLETAMENTE o conteúdo mas eu criei um mini-jogo utilizando o conteúdo de hoje, não pretendo colocar ele na pasta de MyGames por conta que não foi eu que tive a ideia do jogo e eu só optei por fazer ele para treinamento, oque me ajudou MUITO a aprender mais sobre o conteúdo de hoje, o GPT me disse para não ficar mais clicando na tecla de tentar aprender mais, eu ainda não to sentindo que aprendi completamente mas deve ser por que ainda não sei exatamente em que situação usar o conteúdo e também não sei explica-lo direito então eu vou tentar utilizar oque eu vou fazer amanha para me sentir mais seguro com meus estudos e sentir que posso criar um jogo que eu veja alguem jogando e sentindo a sensasão que quero sentir quando criar os meus jogos de terror, uma pessoa que eu quero MUITO que veja os meus jogos é o TexHS, ele é meu YouTuber favorito e eu já vi ele jogando uns jogos de terror e me senti confortável com aquele jogo que ele estava jogando, então decidi que quero criar meus jogos para que outras pessoas e eu incluído nisso sinta oque eu quero que sintam. (ESSA FOI A MAIOR OBSERVAÇÃO DE TODAS EM UM STUDY.LOG KKKKKJ)

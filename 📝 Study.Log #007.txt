@@ -1,0 +1,38 @@
+📝 Study.Log | #007
+🗓️ Dia: 12/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 1 | Fase 18 e 19 — Exercícios de lógica e Revisão da Trilha.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Descobri que minha maior dificuldade (até maior que entender os laços de repetição) está mais na interpretação das perguntas e na explicação dos conceitos do que na lógica em si, então devo práticar bastante, mesmo aprendendo conteúdos novos;
+
+• Percebi que praticar respondendo perguntas ajuda muito a entender os conteúdos e entender onde está a dificuldade;
+
+• Entendi que errar faz parte do processo de programação e que o importante é conseguir identificar os erros, corrigir os erros e não desistir por conta dos erros.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Interpretação sobre os conteúdos da trilha;
+
+• Laços de repetição e estrutura deles.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz 25 questões sobre lógica de programação e os conteúdos da trilha 1.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.7/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje eu apenas pratiquei pois o conteúdo era sobre praticar mesmo então não precisa dar um R.I.P no aprendizado de hoje, eu até tive uma ideia nova de jogo para ele ser o meu primeirão, então não foi um dia ruim, pelo contrário, eu consegui práticar o que eu queria para refrescar minha memória e também descobri onde o cupim que estava acabando com o meu barco estava, que era a minha dificuldade com a interpretação, mas a minha ideia sobre as coisas estão boas, só preciso práticar a minha forma de explicar elas. Eu entendi que posso criar jogos mesmo não sendo perfeitos, apenas fazendo com que eles funcionem e cumpram seus objetivos. Já vou me preparando por que a próxima trilha vai ser sobre o mar pegando fogo enquanto eu passo com o meu barquinho de madeira, tomando cuidado para não pegar fogo.

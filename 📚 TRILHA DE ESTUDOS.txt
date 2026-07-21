@@ -1,0 +1,241 @@
+📚 TRILHA DE ESTUDOS
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+✅ FASE 1 — Fundamentos da Lógica de Programação
+
+📦 Introdução:
+✅ O que é programação
+✅ Algoritmos
+✅ Fluxogramas
+✅ Pseudocódigo
+
+🧱 Dados:
+✅ Variáveis
+✅ Tipos de dados
+✅ Entrada e saída de dados
+
+🧮 Operadores:
+✅ Operadores aritméticos
+✅ Operador ternário (?:)
+✅ Operadores relacionais
+✅ Operadores lógicos
+
+🧠 Decisões:
+✅ if / else if / else
+✅ switch
+
+🔁 Repetições:
+✅ while
+✅ do...while
+✅ for
+✅ break e continue
+
+🎯 Prática:
+✅ Exercícios de lógica
+
+📖 Revisão:
+✅ Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+💻 FASE 2 — C# Básico
+
+📦 Fundamentos:
+✅ Constantes (const)
+✅ Escopo
+
+⚙️ Métodos:
+✅ Métodos
+✅ Parâmetros
+✅ Retorno
+
+🔄 Tipos:
+✅ Conversão de tipos
+✅ Nullable (?)
+
+📝 Texto:
+✅ Strings
+
+📚 Coleções:
+✅ Arrays
+✅ Listas
+✅ Matrizes
+✅ foreach
+
+🎲 Utilitários:
+✅ Random
+✅ DateTime
+
+🛡️ Segurança:
+✅ Tratamento de erros
+
+🌐 Versionamento:
+☐ Git
+☐ GitHub
+
+📖 Revisão:
+🔄 Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🧱 FASE 3 — Programação Orientada a Objetos
+
+☐ Classes
+☐ Objetos
+☐ Atributos
+☐ Métodos
+☐ Construtores
+☐ Encapsulamento
+☐ Propriedades
+☐ Modificadores de acesso (public, private, protected)
+☐ static
+☐ Sobrecarga de métodos
+☐ Herança
+☐ Polimorfismo
+☐ Classes abstratas
+☐ Interfaces
+☐ enum
+☐ struct
+☐ Exceções
+
+🔄 Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🧹 FASE 4 — Boas Práticas
+
+☐ Organização
+☐ Nomenclatura
+☐ Comentários
+☐ Refatoração
+☐ Debug
+☐ Clean Code
+
+🔄 Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🎮 FASE 5 — Unity Básica
+
+☐ Interface
+☐ Scenes
+☐ GameObjects
+☐ Components
+☐ Transform
+☐ Prefabs
+☐ Materiais
+☐ Iluminação
+☐ Física
+☐ Rigidbody
+☐ Colliders
+☐ UI
+☐ Áudio
+☐ Animações
+
+🔄 Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+⚙️ FASE 6 — Programação na Unity
+
+☐ Scripts
+☐ Start()
+☐ Update()
+☐ SerializeField
+☐ Time.deltaTime
+☐ GetComponent
+☐ Tags e Layers
+☐ Input
+☐ Movimento
+☐ Instanciar objetos (Instantiate)
+☐ Destruir objetos (Destroy)
+☐ Coroutines
+☐ Eventos
+☐ Scriptable Objects
+☐ Singleton
+☐ Save System
+☐ Pause
+
+🔄 Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🤖 FASE 7 — Sistemas de Jogos
+
+☐ Inventário
+☐ Sistema de Itens
+☐ Diálogos
+☐ Missões
+☐ IA
+☐ NavMesh
+☐ Máquinas de Estado
+☐ Checkpoints
+☐ Sistema de Vida
+☐ Sistema de Dano
+☐ Sistema de Interação
+☐ Sistema de Eventos
+☐ Sistema de Configurações
+☐ Save/Load Avançado
+
+🔄 Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🕹️ FASE 8 — Projetos
+
+☐ Pong
+☐ Snake
+☐ Flappy Bird
+☐ Space Invaders
+☐ Plataforma 2D
+☐ Top Down Shooter
+☐ Jogo de Terror
+☐ Puzzle
+
+🔄 Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🌌 FASE 9 — Projeto Principal
+
+☐ Planejamento
+☐ Protótipo
+☐ Gameplay
+☐ Interface
+☐ IA
+☐ Áudio
+☐ Save
+☐ Otimização
+
+🔄 Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 FASE 10 — Publicação
+
+☐ Otimização
+☐ Build
+☐ Testes
+☐ Trailer
+☐ Página do jogo
+☐ Publicação
+☐ Atualizações
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🌟 FASE 11 — Estudos Avançados (Opcional)
+
+☐ Multiplayer
+☐ IA Avançada
+☐ Shaders
+☐ Addressables
+☐ Cloud Save
+☐ Matemática para Jogos
+☐ Design Patterns
+☐ Otimização Avançada
+☐ Publicação em múltiplas plataformas
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🏁 TRILHA CONCLUÍDA

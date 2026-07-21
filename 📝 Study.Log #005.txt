@@ -1,0 +1,136 @@
+📝 Study.Log | #005
+🗓️ Dia: 10/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 1 | Fase 12 e 13 — if / else if / else e switch.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• As condicionais são usadas para fazer decisões no programa, sendo elas:
+└ (if): Significa (Se... então);
+└ (else): Significa (Senão... então);
+└ (else if, elif): Significa (Senão, se... então);
+└ Estrutura principal:
+/*
+if (condição)
+{
+    (ação);
+}
+*/
+└ Estrutura simples: utiliza apenas o if;
+└ Estrutura composta: utiliza if e else;
+└ Estrutura encadeada: utiliza if, else if e else.
+
+• Switch é uma estrutura de decisão usada para comparar uma única variável com diferentes valores possíveis, podendo substituir vários if e else if quando as comparações são específicas;
+└ Estrutura principal:
+/*
+switch (variável)
+{
+    case valor:
+        (ação);
+        break;
+}
+*/
+
+• Char é um tipo de dado que armazena apenas um único caractere, normalmente utilizando aspas simples (' '), diferente da string, que armazena textos utilizando aspas duplas (" ").
+
+• Métodos (void) são usados para organizar ações específicas do programa, podendo ser chamados sempre que necessário;
+└ Estrutura principal:
+/*
+void NomeDoMetodo()
+{
+    (ação);
+}
+*/
+└ Para executar um método:
+/*
+NomeDoMetodo();
+*/
+
+• O método Start() é executado automaticamente uma única vez quando o jogo inicia;
+└ Estrutura principal:
+/*
+void Start()
+{
+    (ação);
+}
+*/
+
+• O método Update() é executado continuamente enquanto o jogo estiver rodando;
+└ Estrutura principal:
+/*
+void Update()
+{
+    (ação);
+}
+*/
+
+• O operador lógico (!) significa (NÃO), invertendo o valor de uma variável booleana;
+└ Exemplo:
+/*
+bool portaAberta = true;
+
+if (!portaAberta)
+{
+    Debug.Log("A porta está fechada.");
+}
+*/
+
+• Métodos void não retornam valores, por isso não podem ser utilizados diretamente dentro de um if;
+└ Estrutura incorreta:
+/*
+if (PegarAChaveDaGaveta())
+{
+    (ação);
+}
+*/
+└ Estrutura correta:
+/*
+PegarAChaveDaGaveta();
+
+if (temChave)
+{
+    (ação);
+}
+*/
+
+• Aprendi a organizar um projeto dividindo-o em pequenos sistemas com métodos:
+└ Cabine;
+└ Chave;
+└ Portas;
+└ Cortinas;
+└ Computador;
+└ Câmeras.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Estrutura do switch;
+
+• Diferença entre Start() e Update();
+
+• Como criar e utilizar métodos (void);
+
+• Criar novos sistemas para o meu primeiro CodeGame (The Nighted GuardHouse) utilizando apenas os conhecimentos adquiridos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Criei o meu primeiro CodeGame, chamado The Nighted GuardHouse, utilizando apenas os conhecimentos que aprendi até este momento;
+
+• Organizei o código em sistemas com métodos separados (Cabine, Chave, Portas, Computador, Cortinas e Câmeras);
+
+• Utilizei bool, int, if, switch, métodos (void) e Debug.Log() para criar a introdução do jogo e também permitir alterações na ordem do código ou nas strings do Start().
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 10/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje, para mim, foi o melhor dia de todos até agora, além do conteúdo da trilha de estudos, consegui aplicar tudo na prática criando o meu primeiro CodeGame, chamado The Nighted GuardHouse. Durante a criação do projeto percebi que a parte mais difícil não é escrever o código, mas sim pensar na lógica do jogo e em como organizar cada sistema. Este foi o primeiro projeto que desenvolvi inteiramente utilizando apenas os conhecimentos que adquiri durante os estudos e pretendo criar uma coleção de CodeGames para acompanhar minha evolução como programador.

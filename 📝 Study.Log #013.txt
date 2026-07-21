@@ -1,0 +1,38 @@
+📝 Study.Log | #013
+🗓️ Dia: 18/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 2 | Fase (Nenhuma) — Prática.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Trinei minha lógica e acho que melhorei bastante comparado aos outros códigos.
+
+• Percebi que talvez umas das minhas maiores dificuldades na programação é a lógica, então resolvi fazer um código todo dia para treinar meus aprendizados anteriores e atuais.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Minha lógica de programação;
+
+• Sintaxe dos arrays, matrizes e foreachs;
+
+• Diferença entre Count e Lenght.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz 3 códigos para práticar minha lógica e meus aprendizados, sendo eles um sistema de cadastro de jogadores, um sistema de inventário e um sistema de notas utilizando arrays.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.6/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia de prática, amanha eu voltarei a rotina normal, pretendo começar a fazer um código todo dia para práticar meus aprendizados dos dias anteriosres e dos dias atuais.

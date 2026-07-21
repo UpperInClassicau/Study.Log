@@ -1,0 +1,56 @@
+📝 Study.Log | #015
+🗓️ Dia: 20/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 2 | Fase 34 — Tratamento de erros.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Try é usado para executar um trecho de código que pode gerar uma exceção (erro em tempo de execução), evitando que o programa seja encerrado inesperadamente (crashar), por exemplo:
+/*
+try
+{
+    
+}
+*/
+
+• Catch é executado quando ocorre uma exceção dentro do bloco (try). Nele podemos tratar o erro, mostrar uma mensagem personalizada ou usar Exception erro para acessar informações sobre a exceção através de erro.Message, por exemplo:
+/*
+try
+{
+    // Ação
+}
+catch (Exception erro [opcional, exibe a mensagem de erro da própria Unity])
+{
+    // Resultado caso der algum erro ou Debug.Log(erro.Message);
+}
+*/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer 15 perguntas sobre o conteúdo estudado nos últimos 3 dias;
+
+• Sintaxe de matrizes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz 10 desafios utilizando try, catch, Exception, Random, DateTime, List, arrays, matrizes e métodos;
+└ Refatorei o código utilizando inicializadores de listas (new() {...});
+└ Corriji bugs encontrados durante os desafios.
+
+• Fiz 15 questões sobre o conteúdo estudado nos últimos 3 dias.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi o dia que eu mais fiz linhas de código, prátiquei bastante os conteúdos dos últimos dias e corriji erros e bugs, amanha pretendo terminar a trilha 2, vou seguir para POO e acredito que eu vou adorar a POO por conta que eu já vou aprender coisas que vão me ajudar a faze jogos 3D de terror, futuramente eu vou fazer o meu primeiro vídeo do canal que eu criei para postar vídeos de eu criando jogos, trailers e talvez criando e jogando alguns jogos em live.

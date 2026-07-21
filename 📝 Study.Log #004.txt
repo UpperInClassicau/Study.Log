@@ -1,0 +1,68 @@
+📝 Study.Log | #004
+🗓️ Dia: 09/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 1 | Fase 8, 9, 10 e 11 — Operadores aritméticos, Operadores ternários, Operadores relacionais e Operadores lógicos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Operadores aritméticos são usados para realizar cálculos, sendo eles:
+└ Adição: Sinal de mais (+);
+└ Subtração: Sinal de menos (-);
+└ Multiplicação: Asterisco (*);
+└ Divisão: Barra (/);
+└ Módulo: Porcentagem ou Mod (%);
+└ Potência: Math.Pow(base, expoente).
+
+• Operadores relacionais são usados para comparar valores e retornar true ou false, sendo eles:
+└ (<): Menor que;
+└ (>): Maior que;
+└ (==): Igual a;
+└ (!=): Diferente de;
+└ (<=): Menor ou igual a;
+└ (>=): Maior ou igual a.
+
+• Operadores lógicos são usados para combinar condições, sendo eles:
+└ (&&): E;
+└ (||): OU;
+└ (!): NÃO.
+
+• Operadores ternários são usados para simplificar a escrita de condições simples de if/else, tendo a estrutura:
+└ (condição) ? (resultadoSeVerdadeiro) : (resultadoSeFalso).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Organização e simplificação de um código;
+
+• Sintaxe do C#;
+
+• Diferença entre int, float e double em operações matemáticas;
+
+• Uso dos operadores em diferentes situações.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Criei um sistema na Unity que verifica se o jogador é inteligente, tem uma chave, se a porta está aberta e se pode entrar na sala;
+
+• Criei códigos na Unity utilizando operadores aritméticos;
+
+• Testei divisões usando int e double e entendi a diferença entre resultados inteiros e decimais;
+
+• Criei testes utilizando operador ternário;
+
+• Corrigi erros de sintaxe e lógica durante a programação.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9,7/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia muito produtivo. Consegui revisar operadores importantes do C# e aplicá-los na criação de sistemas na Unity. Pretendo continuar praticando minha sintaxe e desenvolver sistemas cada vez mais complexos.

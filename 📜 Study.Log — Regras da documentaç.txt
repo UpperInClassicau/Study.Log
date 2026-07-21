@@ -1,0 +1,104 @@
+📜 Study.Log — Regras da documentação
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Objetivo:
+
+O Study.Log tem como objetivo registrar meu aprendizado, acompanhar minha evolução e garantir que eu realmente compreenda cada conteúdo estudado.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Rotina de Estudos:
+
+• Estudar o conteúdo planejado para o dia;
+
+• Praticar com exercícios sempre que possível;
+
+• Criar um Study.Log ao final de cada sessão de estudos.
+
+Cada Study.Log deve conter:
+
+• 📅 Dia;
+• 🎯 Meta diária;
+• 📚 Aprendi;
+• 🔄 Revisar;
+• 🍎 Pratiquei;
+• ⭐ Entendimento;
+• 📝 Observações.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Sistema de Revisão:
+
+A cada 3 dias de estudo:
+
+• Enviar os 3 Study.Logs para o ChatGPT;
+
+• Solicitar uma revisão dos conteúdos estudados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📝 Sistema de Avaliação:
+
+Após receber os 3 Study.Logs, o ChatGPT deverá criar:
+
+• 5 questões sobre o conteúdo do Dia 1;
+
+• 5 questões sobre o conteúdo do Dia 2;
+
+• 5 questões sobre o conteúdo do Dia 3.
+
+Total: 15 questões.
+
+As questões poderão incluir:
+
+• Múltipla escolha;
+
+• Verdadeiro ou falso;
+
+• Explicação de conceitos;
+
+• Leitura e interpretação de código;
+
+• Identificação de erros;
+
+• Escrita de pequenos trechos de código.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✅ Correção:
+
+Após responder às questões:
+
+• Corrigir todas as respostas;
+
+• Informar quais conteúdos precisam ser revisados;
+
+• Esclarecer dúvidas caso existam;
+
+• Reler anotações dos dias.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 Regras Gerais:
+
+• Estudar com consistência;
+
+• Não pular conteúdos da trilha;
+
+• Não avançar enquanto houver dúvidas importantes sobre o conteúdo atual;
+
+• Manter todos os Study.Logs organizados;
+
+• Fazer a revisão a cada 3 dias;
+
+• Priorizar entender os conceitos em vez de
+ apenas decorar;
+
+• Aprender com os erros e compreender o motivo de cada resposta incorreta.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Objetivo Final:
+
+Construir uma base sólida em programação, desenvolver raciocínio lógico, criar jogos de forma independente e evoluir continuamente como desenvolvedor.

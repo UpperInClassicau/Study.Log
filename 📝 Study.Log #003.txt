@@ -1,0 +1,49 @@
+📝 Study.Log | #003
+🗓️ Dia: 08/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 1 | Fase 5, 6 e 7 — Variáveis, Tipos de dados e Entrada e saída de dados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Variáveis são espaços na memória que possuem um nome e armazenam valores que podem ser alterados e utilizados pelo programa;
+
+• Aprendi os principais tipos de dados:
+└ Numéricos: números inteiros (int) e números decimais (double ou float);
+└ Booleanos: valores verdadeiros ou falsos (true ou false) representados pelo tipo (bool);
+└ Strings: armazenam textos, podendo conter letras, números e símbolos, geralmente representados pelas aspas ("").
+
+• A entrada e saída de dados são representadas por:
+└ Console.WriteLine(): representa a saída de dados, enviando uma informação do programa para a tela do usuário;
+└ Console.ReadLine(): representa a entrada de dados, permitindo que o usuário digite uma informação durante a execução do programa, que pode ser armazenada em uma variável.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Os conteúdos estudados nos últimos 3 dias;
+
+• Os conteúdo estudados hoje;
+
+• Sintaxe do C#.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• 5 questões sobre variáveis, tipos de dados e entrada/saída de dados;
+
+• 15 questões de revisão dos conteúdos estudados nos últimos 3 dias;
+
+• Correção das respostas e identificação dos erros de sintaxe em C#.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9,5/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Percebi que compreendi os conceitos estudados, mas ainda preciso praticar mais a sintaxe do C#, principalmente Console.ReadLine(), Console.WriteLine() e o uso correto de variáveis na escrita do código. Hoje eu criei um código na Unity bem organizado.
