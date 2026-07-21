@@ -1,0 +1,48 @@
+📝 Study.Log | #016
+🗓️ Dia: 21/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 2 | Fase 35, 36 e 37 — Git, GitHub e Revisão da Fase.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Git é um sistema de controle de versão utilizado para registrar e acompanhar alterações em projetos.
+
+• GitHub é uma plataforma utilizada para armazenar, compartilhar e colaborar em repositórios Git.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Como funciona o GitHub.
+
+• Como guardar e registrar alterações em repositórios Git por meio do próprio Git.
+
+• Principais comandos do Git Bash.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz 25 questões sobre a trilha 2.
+
+• Criei meu primeiro repositório Git e o conectei no GitHub.
+
+• Configurei o Git com meu nome de usuário e e-mail.
+
+• Criei e personalizei o README.md do repositório.
+
+• Fiz os meus primeiros commits.
+
+• Fiz o meu primeiro push.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.6/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem doido, mas também muito produtivo. No início tive bastante dificuldade para entender como o Git e o GitHub funcionavam, porém consegui criar meu primeiro repositório, escrever um README.md, fazer meus primeiros commits e realizar meu primeiro push, AMANHA SERÁ O GRANDE DIA QUE EU COMEÇAREI A TRILHA 3, AEEEEEEEEEEEEEEEEEEEEEE.

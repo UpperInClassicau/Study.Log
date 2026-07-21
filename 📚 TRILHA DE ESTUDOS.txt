@@ -39,7 +39,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-💻 FASE 2 — C# Básico
+✅ FASE 2 — C# Básico
 
 📦 Fundamentos:
 ✅ Constantes (const)
@@ -71,34 +71,54 @@
 ✅ Tratamento de erros
 
 🌐 Versionamento:
-☐ Git
-☐ GitHub
+✅ Git
+✅ GitHub
 
 📖 Revisão:
-🔄 Revisão da Fase
+✅ Revisão da Fase
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 🧱 FASE 3 — Programação Orientada a Objetos
 
+📦 Base:
 ☐ Classes
 ☐ Objetos
+
+🧩 Estrutura:
 ☐ Atributos
 ☐ Métodos
 ☐ Construtores
+
+🔒 Organização:
 ☐ Encapsulamento
 ☐ Propriedades
-☐ Modificadores de acesso (public, private, protected)
+
+🔐 Controle de acesso:
+☐ public
+☐ private
+☐ protected
+
+⚡ Recursos:
 ☐ static
 ☐ Sobrecarga de métodos
+
+🧬 Herança:
 ☐ Herança
 ☐ Polimorfismo
+
+🏗️ Tipos especiais:
 ☐ Classes abstratas
 ☐ Interfaces
+
+📑 Tipos de dados:
 ☐ enum
 ☐ struct
+
+🛡️ Exceções:
 ☐ Exceções
 
+📖 Revisão:
 🔄 Revisão da Fase
 
 ━━━━━━━━━━━━━━━━━━━━━━
