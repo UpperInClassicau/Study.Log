@@ -1,6 +1,6 @@
 # 📚 Study.Log
 
-> Minha jornada de estudos para me tornar um desenvolvedor solo de jogos 3D com foco em terror psicológico.
+Minha jornada de estudos para me tornar um desenvolvedor solo de jogos 3D com foco em terror psicológico.
 
 # 🎯 Objetivo
 
@@ -55,3 +55,7 @@ Este repositório reúne meus aprendizados, práticas, documentações e projeto
 ⬜ Fase 10 — Publicação
 
 ⬜ Fase 11 - Estudos Avançados
+
+# 📅 Início da Jornada
+
+01/07/2026
