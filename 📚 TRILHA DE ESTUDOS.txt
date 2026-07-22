@@ -35,7 +35,7 @@
 ✅ Exercícios de lógica
 
 📖 Revisão:
-✅ Revisão da Fase
+✅ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
@@ -75,51 +75,39 @@
 ✅ GitHub
 
 📖 Revisão:
-✅ Revisão da Fase
+✅ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 🧱 Trilha 3 — Programação Orientada a Objetos
 
-📦 Base:
+🏗️ Fundamentos:
 ☐ Classes
 ☐ Objetos
-
-🧩 Estrutura:
 ☐ Atributos
 ☐ Métodos
-☐ Construtores
 
-🔒 Organização:
+🔨 Organização e Controle de Objetos:
+☐ Construtores
+☐ Modificadores de acesso (public, private, protected)
 ☐ Encapsulamento
 ☐ Propriedades
 
-🔐 Controle de acesso:
-☐ public
-☐ private
-☐ protected
-
-⚡ Recursos:
-☐ static
-☐ Sobrecarga de métodos
-
-🧬 Herança:
+🧬 Relação entre Classes:
 ☐ Herança
 ☐ Polimorfismo
 
-🏗️ Tipos especiais:
+🧩 Abstração:
 ☐ Classes abstratas
 ☐ Interfaces
 
-📑 Tipos de dados:
+⚙️ Recursos do C#:
 ☐ enum
 ☐ struct
-
-🛡️ Exceções:
 ☐ Exceções
 
 📖 Revisão:
-🔄 Revisão da Fase
+🔄 Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
