@@ -2,7 +2,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-✅ FASE 1 — Fundamentos da Lógica de Programação
+✅ Trilha 1 — Fundamentos da Lógica de Programação
 
 📦 Introdução:
 ✅ O que é programação
@@ -39,7 +39,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-✅ FASE 2 — C# Básico
+✅ Trilha 2 — C# Básico
 
 📦 Fundamentos:
 ✅ Constantes (const)
@@ -79,7 +79,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🧱 FASE 3 — Programação Orientada a Objetos
+🧱 Trilha 3 — Programação Orientada a Objetos
 
 📦 Base:
 ☐ Classes
@@ -123,7 +123,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🧹 FASE 4 — Boas Práticas
+🧹 Trilha 4 — Boas Práticas
 
 ☐ Organização
 ☐ Nomenclatura
@@ -136,7 +136,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🎮 FASE 5 — Unity Básica
+🎮 Trilha 5 — Unity Básica
 
 ☐ Interface
 ☐ Scenes
@@ -157,7 +157,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-⚙️ FASE 6 — Programação na Unity
+⚙️ Trilha 6 — Programação na Unity
 
 ☐ Scripts
 ☐ Start()
@@ -181,7 +181,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🤖 FASE 7 — Sistemas de Jogos
+🤖 Trilha 7 — Sistemas de Jogos
 
 ☐ Inventário
 ☐ Sistema de Itens
@@ -202,7 +202,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🕹️ FASE 8 — Projetos
+🕹️ Trilha 8 — Projetos
 
 ☐ Pong
 ☐ Snake
@@ -217,7 +217,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🌌 FASE 9 — Projeto Principal
+🌌 Trilha 9 — Projeto Principal
 
 ☐ Planejamento
 ☐ Protótipo
@@ -232,7 +232,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🚀 FASE 10 — Publicação
+🚀 Trilha 10 — Publicação
 
 ☐ Otimização
 ☐ Build
@@ -244,7 +244,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🌟 FASE 11 — Estudos Avançados (Opcional)
+🌟 Trilha 11 — Estudos Avançados (Opcional)
 
 ☐ Multiplayer
 ☐ IA Avançada

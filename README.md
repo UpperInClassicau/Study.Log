@@ -14,48 +14,49 @@ Este repositório reúne meus aprendizados, práticas, documentações e projeto
 
 ## 💻 Programação
 
-- C# — Linguagem principal utilizada nos estudos e no desenvolvimento de jogos;
-- Lógica de programação — Base para criação de sistemas e resolução de problemas.
+* C# — Linguagem principal utilizada nos estudos e no desenvolvimento de jogos;
+* Lógica de programação — Base para criação de sistemas e resolução de problemas.
 
 ## 🎮 Game Development
 
-- Unity Engine — Engine utilizada para criação de jogos 3D;
-- Visual Studio — Ambiente utilizado para escrever e organizar códigos em C#.
+* Unity Engine — Engine utilizada para criação de jogos 3D;
+* Visual Studio — Ambiente utilizado para escrever e organizar códigos em C#.
 
 ## 📂 Versionamento
 
-- Git — Ferramenta utilizada para controlar versões dos projetos;
-- GitHub — Plataforma utilizada para armazenar e compartilhar meus projetos.
+* Git — Ferramenta utilizada para controlar versões dos projetos;
+* GitHub — Plataforma utilizada para armazenar e compartilhar meus projetos.
 
 ## 🎨 Futuramente
 
-- Blender — Ferramenta para modelagem 3D e criação de elementos para jogos;
-- Design de áudio — Criação e implementação de sons e atmosferas.
+* Blender — Ferramenta para modelagem 3D e criação de elementos para jogos;
+* Design de áudio — Criação e implementação de sons e atmosferas.
 
 # 📈 Trilha de Estudos
 
-✅ Fase 1 — Fundamentos da Lógica de Programação
+✅ Trilha 1 — Fundamentos da Lógica de Programação
 
-🔄 Fase 2 — C# Básico
+✅ Trilha 2 — C# Básico
 
-⬜ Fase 3 — Programação Orientada a Objetos
+🔄 Trilha 3 — Programação Orientada a Objetos
 
-⬜ Fase 4 — Boas Práticas
+⬜ Trilha 4 — Boas Práticas
 
-⬜ Fase 5 — Unity Básica
+⬜ Trilha 5 — Unity Básica
 
-⬜ Fase 6 — Programação na Unity
+⬜ Trilha 6 — Programação na Unity
 
-⬜ Fase 7 — Sistemas de Jogos
+⬜ Trilha 7 — Sistemas de Jogos
 
-⬜ Fase 8 — Projetos
+⬜ Trilha 8 — Projetos
 
-⬜ Fase 9 — Projeto Principal
+⬜ Trilha 9 — Projeto Principal
 
-⬜ Fase 10 — Publicação
+⬜ Trilha 10 — Publicação
 
-⬜ Fase 11 - Estudos Avançados
+⬜ Trilha 11 - Estudos Avançados
 
 # 📅 Início da Jornada
 
 01/07/2026
+
