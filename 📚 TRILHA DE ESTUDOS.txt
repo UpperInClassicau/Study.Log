@@ -82,10 +82,10 @@
 🧱 Trilha 3 — Programação Orientada a Objetos
 
 🏗️ Fundamentos:
-☐ Classes
-☐ Objetos
-☐ Atributos
-☐ Métodos
+✅ Classes
+✅ Objetos
+✅ Atributos
+✅ Métodos
 
 🔨 Organização e Controle de Objetos:
 ☐ Construtores
