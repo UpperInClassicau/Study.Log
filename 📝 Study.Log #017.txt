@@ -1,0 +1,40 @@
+📝 Study.Log | #017
+🗓️ Dia: 22/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 3 | Fase 38, 39, 40 e 41 — Classes, Objetos, Atributos e Métodos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Classe é um modelo que define como um objeto será;
+
+• Objeto é uma instância de uma classe, ou seja, uma coisa específica criada a partir dela;
+
+• Atributos representam as características ou estados de um objeto;
+
+• Métodos representam as ações que um objeto pode executar;
+
+• Objetos podem possuir outros objetos, como uma Mesa que possui uma Planta e uma Chave.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Conteúdo de hoje.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Comecei a criar um código utilizando classes, objetos, atributos, métodos e outros conceitos que já havia aprendido, fazendo um pequeno Escape Room.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.3/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem caótico, mas muito produtivo. Senti que ainda não consolidei completamente o conteúdo, então decidi dedicar o dia seguinte apenas para praticar o conteúdo estudados hoje. Percebi que POO talvez não seja apenas mais uma pedrinha no meu caminho, mas uma grande pedra que precisarei mover com paciência até que tampe o buraco onde eu cairía. Em vez de tentar avançar rapidamente, quero construir uma base sólida para que os próximos conteúdos façam sentido, espero que amanhã eu consiga fortalecer ainda mais essa base que venho contruindo.
