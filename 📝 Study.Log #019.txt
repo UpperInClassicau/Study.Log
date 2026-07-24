@@ -1,0 +1,44 @@
+📝 Study.Log | #019
+🗓️ Dia: 24/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 3 | Fase 42, 43, 44 e 45 — Construtores, Modificadores de acesso, Encapsulamento e Propriedades.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Construtores são métodos especiais executados automaticamente quando um objeto é criado com o new, servindo para inicializar seus valores;
+
+• Modificadores de acesso controlam quem pode acessar membros de uma classe, como public, private e protected;
+
+• Encapsulamento é o conceito de proteger os dados de um objeto e controlar como eles podem ser alterados através de métodos e propriedades;
+
+• Propriedades permitem acessar e modificar atributos privados de forma controlada;
+
+• O this é usado para referenciar o próprio objeto e diferenciar atributos de parâmetros com o mesmo nome;
+
+• O value dentro do set representa o valor que está sendo atribuído à propriedade.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer 15 questões sobre o conteúdo estudado anteriormente.
+
+• Sintaxe de classes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema de cofre e um sistema de player.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.7/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia até que legal, não consolidei o conteúdo completamente mas vou praticar amanha novamente, estou pretendendo fazer uma revisão das 3 trilhas após eu terminar a trilha 3.
