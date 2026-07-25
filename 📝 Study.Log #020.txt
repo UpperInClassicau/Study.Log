@@ -1,0 +1,44 @@
+📝 Study.Log | #020
+🗓️ Dia: 25/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 3 | Fase (nenhuma) — Prática.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Como criar um construtor para definir os valores iniciais de um objeto;
+
+• Aprendi a utilizar atributos privados junto com propriedades (get e set);
+
+• Entendi que o encapsulamento serve para proteger os dados e controlar as alterações feitas neles;
+
+• Aprendi que o set utiliza a variável value para receber o novo valor;
+
+• Pratiquei criando uma classe de chave com construtor, propriedade, método e validação para impedir códigos vazios.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Sintaxe de propriedades;
+
+• Sintaxe de contrutores;
+
+• Fazer 15 questões sobre o conteúdo estudado nos últimos 3 dias (um pouco atrasado).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz 1 código utilizando o conteúdo estudado ontem.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia até que bom, eu pratiquei o conteúdo de ontem, eu me esqueci de fazer as 15 perguntas ontem, então eu vou precisar fazer hoje.

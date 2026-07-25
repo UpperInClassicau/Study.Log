@@ -88,10 +88,10 @@
 ✅ Métodos
 
 🔨 Organização e Controle de Objetos:
-☐ Construtores
-☐ Modificadores de acesso (public, private, protected)
-☐ Encapsulamento
-☐ Propriedades
+✅ Construtores
+✅ Modificadores de acesso (public, private, protected)
+✅ Encapsulamento
+✅ Propriedades
 
 🧬 Relação entre Classes:
 ☐ Herança
