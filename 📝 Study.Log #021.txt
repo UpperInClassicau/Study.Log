@@ -1,0 +1,42 @@
+📝 Study.Log | #021
+🗓️ Dia: 26/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 3 | Fase 46 e 47 — Herança e Polimorfismo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Herança permite que uma classe herde atributos e métodos de outra classe, evitando repetição de código;
+
+• Polimorfismo permite que diferentes classes respondam ao mesmo método de formas diferentes;
+
+• O modificador virtual permite que um método da classe pai seja sobrescrito pelas classes filhas;
+
+• O modificador override substitui a implementação de um método herdado;
+
+• A palavra-chave (base) é utilizada para chamar o construtor da classe pai.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer 30 questões sobre o conteúdo estudado nos últimos 6 dias.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz 25 questões sobre o conteúdo dos últimos 6 dias;
+
+• Fiz um sistema de inimigos utilizando o conteúdo estudado hoje.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem legal, esqueci completamente de fazer as 15 questões mas me redimi hoje, tentei fazer 30 mas fiquei com a cabeça muito cheia e fiz 25, pretendo mais tarde fazer as últimas 5.

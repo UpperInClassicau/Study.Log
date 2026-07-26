@@ -94,8 +94,8 @@
 ✅ Propriedades
 
 🧬 Relação entre Classes:
-☐ Herança
-☐ Polimorfismo
+✅ Herança
+✅ Polimorfismo
 
 🧩 Abstração:
 ☐ Classes abstratas
