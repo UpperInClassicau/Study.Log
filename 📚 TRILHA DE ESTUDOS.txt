@@ -98,8 +98,8 @@
 ✅ Polimorfismo
 
 🧩 Abstração:
-☐ Classes abstratas
-☐ Interfaces
+✅ Classes abstratas
+✅ Interfaces
 
 ⚙️ Recursos do C#:
 ☐ enum

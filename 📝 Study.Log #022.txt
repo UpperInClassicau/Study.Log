@@ -1,0 +1,36 @@
+📝 Study.Log | #022
+🗓️ Dia: 27/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+* Trilha 1 | Fase 48 e 49 — Classes abstratas e Interface.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Classes abstratas são classes base que não podem ser instanciadas. Elas podem possuir atributos, métodos normais e métodos abstratos que obrigam as classes filhas a implementarem seu próprio comportamento;
+
+• Interface é como um contrato que define quais métodos uma classe deve possuir. A classe que implementa a interface é obrigada a criar esses métodos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Sintaxe e quando usar uma interface.
+
+• Quando usar uma classe abstrata.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema de porta inteligente aplicando classes, objetos, construtores, encapsulamento, propriedades, interfaces e métodos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.6/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem divertido, eu fiz o Study.Log cedinho e fiz um sistema implementando conteúdo que eu já tinha aprendido, aplicando minha correção de bugs e estruturas.
