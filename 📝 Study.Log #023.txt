@@ -1,0 +1,40 @@
+📝 Study.Log | #023
+🗓️ Dia: 28/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 3 | Fase 50, 51 e 52 — enum, struct e Exceções.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Enum permite criar uma lista de opções fixas, deixando o código mais organizado e legível;
+
+• Struct é um tipo de valor usado para agrupar pequenos conjuntos de dados relacionados um a o outro;
+
+• Structs são copiadas quando atribuídas a outra variável, enquanto classes compartilham a mesma referência;
+
+• Exceções servem para tratar erros que podem acontecer durante a execução do programa, evitando que ele seja encerrado inesperadamente durante o teste;
+
+• O bloco try contém o código que pode gerar uma exceção, e o catch é executado caso uma exceção realmente aconteça.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Consolidar conteúdo da trilha e das trilhas passadas.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Criei um sistema de entrega sorteada utilizando enum, struct e exceções.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem legal, descobri que mais para frente eu vou finalmente conseguir fazer um cubo andar, e amanha... será o dia que eu vou práticar tanto a trilha 3 e as trilhas passadas junto da trilha 4 para consolidar o conteúdo.

@@ -102,9 +102,9 @@
 ✅ Interfaces
 
 ⚙️ Recursos do C#:
-☐ enum
-☐ struct
-☐ Exceções
+✅ enum
+✅ struct
+✅ Exceções
 
 📖 Revisão:
 🔄 Revisão da Trilha
