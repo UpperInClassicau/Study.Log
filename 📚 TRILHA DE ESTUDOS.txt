@@ -79,7 +79,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🧱 Trilha 3 — Programação Orientada a Objetos
+✅ Trilha 3 — Programação Orientada a Objetos
 
 🏗️ Fundamentos:
 ✅ Classes
@@ -107,7 +107,7 @@
 ✅ Exceções
 
 📖 Revisão:
-🔄 Revisão da Trilha
+✅ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
