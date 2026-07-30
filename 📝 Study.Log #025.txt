@@ -1,0 +1,34 @@
+📝 Study.Log | #025
+🗓️ Dia: 30/07/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 4 | Fase 54 — Organização.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Atributos private podem ser acessados dentro da própria classe onde foram criados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Conteúdos que precisam de mais prática;
+
+• Terminar o sistema de inventário iniciado hoje.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Comecei a desenvolver um sistema de inventário.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.7/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem produtivo. Relembrei um conceito que eu tinha esquecido: atributos private podem ser acessados normalmente dentro da própria classe em que foram criados. Durante o desenvolvimento do sistema de inventário, comecei a sentir muita dor de cabeça, então decidi continuar o código amanhã, quando estiver mais descansado. Hoje também fui ao hospital, então estava bastante cansado para continuar programando.

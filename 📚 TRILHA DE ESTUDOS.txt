@@ -113,14 +113,26 @@
 
 🧹 Trilha 4 — Boas Práticas
 
-☐ Organização
+🗂️ Ordem:
+✅ Organização
+
+🏷️ Clareza:
 ☐ Nomenclatura
+
+📝 Comunicação:
 ☐ Comentários
+
+♻️ Aprimoramento:
 ☐ Refatoração
+
+🔍 Investigação:
 ☐ Debug
+
+💎 Maestria:
 ☐ Clean Code
 
-🔄 Revisão da Fase
+📖 Revisão:
+☐ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
