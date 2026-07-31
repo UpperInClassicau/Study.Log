@@ -117,7 +117,7 @@
 ✅ Organização
 
 🏷️ Clareza:
-☐ Nomenclatura
+✅ Nomenclatura
 
 📝 Comunicação:
 ☐ Comentários
