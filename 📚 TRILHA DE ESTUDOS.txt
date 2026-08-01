@@ -120,7 +120,7 @@
 ✅ Nomenclatura
 
 📝 Comunicação:
-☐ Comentários
+✅ Comentários
 
 ♻️ Aprimoramento:
 ☐ Refatoração
