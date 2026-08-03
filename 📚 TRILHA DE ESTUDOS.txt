@@ -126,7 +126,7 @@
 ✅ Refatoração
 
 🔍 Investigação:
-☐ Debug
+✅ Debug
 
 💎 Maestria:
 ☐ Clean Code
