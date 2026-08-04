@@ -1,0 +1,36 @@
+📝 Study.Log | #030
+🗓️ Dia: 04/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 4 | Fase 59 — Clean Code.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Clean code é uma ótima forma de deixar o código muito mais organizado, limpo e bonito.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Sintaxe de enum e struct;
+
+• Quando e como usar enum e struct;
+
+• Fazer 15 questões sobre o conteúdo estudado nos últimos 3 dias.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema de crashar utilizando enum, struct e outros conteúdo já estudados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem calmo, fiz um sistema como eu faço todos os dias e agora eu vou bater 1 mês de Study.Log, oque é algo muito histórico pra mim pois eu nunca tinha atingido essa meta antes.

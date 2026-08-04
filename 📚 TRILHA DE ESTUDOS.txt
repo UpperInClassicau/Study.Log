@@ -129,7 +129,7 @@
 ✅ Debug
 
 💎 Maestria:
-☐ Clean Code
+✅ Clean Code
 
 📖 Revisão:
 ☐ Revisão da Trilha
