@@ -40,9 +40,9 @@ Este repositório reúne meus aprendizados, práticas, documentações e projeto
 
 ✅ Trilha 3 — Programação Orientada a Objetos
 
-🔄 Trilha 4 — Boas Práticas
+✅ Trilha 4 — Boas Práticas
 
-⬜ Trilha 5 — Unity Básica
+🔄 Trilha 5 — Unity Básica
 
 ⬜ Trilha 6 — Programação na Unity
 

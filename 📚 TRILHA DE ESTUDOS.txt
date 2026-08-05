@@ -111,7 +111,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🧹 Trilha 4 — Boas Práticas
+✅ Trilha 4 — Boas Práticas
 
 🗂️ Ordem:
 ✅ Organização
@@ -132,7 +132,7 @@
 ✅ Clean Code
 
 📖 Revisão:
-☐ Revisão da Trilha
+✅ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
