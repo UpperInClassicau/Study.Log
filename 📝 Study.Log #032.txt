@@ -1,0 +1,36 @@
+📝 Study.Log | #032
+🗓️ Dia: 06/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 5 | Fase 61 — Interface.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Revisei a interface da Unity para saber oque fazer no futuro.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Classes abstratas;
+
+• Métodos virtual e override;
+
+• Interface (script).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Dei uma olhada na Unity, mas como eu já sabia das coisas, eu nem fiz tanta coisa.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Quase buguei minha Unity inteira, mas foi um dia bem legal, eu já sabia de quase o assunto inteiro, então praticamente foi só um dia de revisão mesmo.
