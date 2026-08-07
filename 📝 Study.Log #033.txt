@@ -1,0 +1,52 @@
+📝 Study.Log | #033
+🗓️ Dia: 07/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 5 | Fase 62, 63, 64 e 65 — Scenes, GameObjects, Components e Transform.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Como a Unity impede a compilação quando existe erro em algum script;
+
+• Como usar Debug.Log para acompanhar valores e encontrar problemas;
+
+• Como funciona o Transform.Rotate para alterar a rotação de objetos;
+
+• Que Time.deltaTime ajuda a fazer movimentos suaves independente do FPS;
+
+• Como controlar um movimento usando uma variável de estado e uma condição;
+
+• Como comparações com números negativos funcionam na lógica do código;
+
+• Que valores públicos no script podem ser alterados pelo Inspector da Unity;
+
+• Como GameObjects Empty podem ser usados como pontos de controle para outros objetos;
+
+• Como a hierarquia de objetos influencia rotações e movimentos;
+
+• Como o pivô/origem de um objeto muda a forma que ele gira.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Classes abstratas; (eu vou tentar amanha 😭)
+
+• Polimorfismo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Passei horas tentando fazer um sistema de porta 3D.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia BEM CAÓTICO, eu passei horas brigando com um sistema de porta 3D cheio de bugs enquanto tava aprendendo um assunto novo, mas foi bem legal.

@@ -278,10 +278,10 @@
 ✅ Interface
 
 🌍 Estrutura:
-☐ Scenes
-☐ GameObjects
-☐ Components
-☐ Transform
+✅ Scenes
+✅ GameObjects
+✅ Components
+✅ Transform
 
 📦 Reutilização:
 ☐ Prefabs
