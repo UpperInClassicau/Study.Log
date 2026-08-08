@@ -30,9 +30,9 @@ Cada Study.Log deve conter:
 
 🔄 Sistema de Revisão:
 
-A cada 3 dias de estudo:
+A cada aproximadamente 2-3 blocos de conteúdo ÚTEIS:
 
-• Enviar os 3 Study.Logs para o ChatGPT;
+• Enviar os 2-3 blocos com os conteúdos para o ChatGPT;
 
 • Solicitar uma revisão dos conteúdos estudados.
 
@@ -40,13 +40,13 @@ A cada 3 dias de estudo:
 
 📝 Sistema de Avaliação:
 
-Após receber os 3 Study.Logs, o ChatGPT deverá criar:
+Após receber os 2-3 blocos de conteúdo, o ChatGPT deverá criar:
 
-• 5 questões sobre o conteúdo do Dia 1;
+• 5 questões sobre o conteúdo do bloco 1;
 
-• 5 questões sobre o conteúdo do Dia 2;
+• 5 questões sobre o conteúdo do bloco 2;
 
-• 5 questões sobre o conteúdo do Dia 3.
+• 5 questões sobre o conteúdo do bloco 3 (ou não).
 
 Total: 15 questões.
 
@@ -90,7 +90,7 @@ Após responder às questões:
 
 • Manter todos os Study.Logs organizados;
 
-• Fazer a revisão a cada 3 dias;
+• Fazer a revisão a cada 3 blocos;
 
 • Priorizar entender os conceitos em vez de
  apenas decorar;
