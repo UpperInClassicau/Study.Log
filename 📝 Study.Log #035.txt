@@ -1,38 +1,34 @@
-📝 Study.Log | #028
-🗓️ Dia: 02/08/2026
+📝 Study.Log | #035
+🗓️ Dia: 09/08/2026
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🎯 Meta diária:
-• Trilha 4 | Fase 57 — Refatoração.
+• Trilha 5 | Fase 67 e 68 — Materiais e Iluminação.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📚 Aprendi:
-• Refatoração ajuda a organizar um código e deixa-lo muito mais fácil de ler e entender sem alterar o seu comportamento;
+• Não é possiivel colocar um material individual, apenas criando uma instância de um em um GameObject, ou simplesmente criando um material novo;
 
-• Nem tudo que eu aprender eu vou utilizar tanto, por isso eu preciso saber quando usar cada coisa.
+• Iluminação vai ajudar muito meu jogo mas eu não sou tão bom nisso.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔄 Revisar:
-• Enum e struct;
-
-• Classes abstratas;
-
-• Quando utilizar conhecimentos aprendidos antes.
+• Fazer 15 questões sobre o conteúdos dos blocos mais importantes.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 🍎 Pratiquei:
-• Refatorei um código antigo meu como prática.
+• Fiz um sistema de jumpscare e ainda fiz um cenário para o sistema de porta e jumpscare se emcaixarem.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ⭐ Entendimento:
-• 9.8/10
+• 9.7/10
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 📋 Observações:
-• Hoje foi um dia bem legal, refatorei um código antigo meu e ele ficou muito melhor, comecei a me preocupar com algumas coisas que sinto que não aprendi direito e pretendo nos próximo dias pratica-los mais. Entendi que nem todo o código precisa nascer perfeito, ele pode ser melhorado cm a refatoração.
+• Hoje foi um dia bem mais ou menos, eu fiquei tentando entender por que eu não conseguia colocar um material individual para cada coisa mas depois eu conseguir arrumar um jeito, depois a iluminação eu não achei muito legal pois é bem chatinho de mexer nela.

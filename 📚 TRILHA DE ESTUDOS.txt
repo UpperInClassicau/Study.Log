@@ -287,8 +287,8 @@
 ✅ Prefabs
 
 🎨 Visual:
-☐ Materiais
-☐ Iluminação
+✅ Materiais
+✅ Iluminação
 
 ⚙️ Física:
 ☐ Física
