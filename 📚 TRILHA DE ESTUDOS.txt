@@ -291,9 +291,9 @@
 ✅ Iluminação
 
 ⚙️ Física:
-☐ Física
-☐ Rigidbody
-☐ Colliders
+✅ Física
+✅ Rigidbody
+✅ Colliders
 
 🖥️ Interface do Jogador:
 ☐ UI

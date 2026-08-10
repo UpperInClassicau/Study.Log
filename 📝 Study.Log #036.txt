@@ -1,0 +1,55 @@
+📝 Study.Log | #036
+🗓️ Dia: 10/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+* Trilha 5 | Fase 69, 70 e 71 — Física, Rigidbody e Colliders.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Como funciona a física básica da Unity através do Rigidbody e da gravidade;
+
+• Como o Rigidbody permite que um GameObject participe da simulação física;
+
+• Como o Collider define a área física usada nas colisões;
+
+• A diferença entre um Collider normal e um Collider com Is Trigger ativado;
+
+• Como o Is Kinematic impede que o movimento do Rigidbody seja controlado normalmente pela simulação física;
+
+• Como objetos sem Rigidbody ainda podem funcionar como superfícies estáticas de colisão;
+
+• Como Materials alteram a aparência dos GameObjects, como cor, brilho e textura;
+
+• Como a Lighting influencia a iluminação e a atmosfera visual de uma Scene;
+
+• Como combinar Collider e Trigger para criar mecânicas de detecção, como detectar o jogador entrando em uma área;
+
+• Como Scenes, GameObjects, Components e Transform se relacionam dentro da estrutura da Unity;
+
+• Como aplicar os conhecimentos de Física e Colliders na criação de futuras mecânicas do The Nighted GuardHouse.
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Praticar conteúdos que não foram fixados completamente na cabeça.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz 15 questões sobre 3 blocos importantes;
+
+• Fiquei testando Rigidbody, colisão e a física da unity.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia de testes, fiquei tentando fazer um cubo empurrar o outro mas não deu tão certo, amanhã provavelmente eu vou conseguir fazer uma interação utilizando UI, hoje também estou pensando em uma música boa para colocar no trailer do meu jogo.
