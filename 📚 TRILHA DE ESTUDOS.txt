@@ -296,7 +296,7 @@
 ✅ Colliders
 
 🖥️ Interface do Jogador:
-☐ UI
+✅ UI
 
 🔊 Áudio:
 ☐ Áudio

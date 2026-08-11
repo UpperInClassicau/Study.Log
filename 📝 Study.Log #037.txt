@@ -1,0 +1,54 @@
+📝 Study.Log | #037
+🗓️ Dia: 11/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 5 | Fase 72 — UI.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Programação não é para qualquer um;
+
+• Como utilizar Canvas e TextMeshPro para criar uma indicação de interação na tela;
+
+• Como ativar e desativar elementos da UI usando (GameObject.SetActive());
+
+• Como utilizar (OnTriggerEnter) e (OnTriggerExit) para detectar quando um objeto entra ou sai de um Trigger;
+
+• Como (Start()), (Update()) e métodos de evento como (OnTriggerEnter()) possuem momentos diferentes de execução;
+
+• Como utilizar (Rigidbody) para participar do sistema de física da Unity;
+
+• Como utilizar (Vector3) e (Vector3.MoveTowards()) para movimentar um GameObject até uma posição;
+
+• A diferença entre (transform.position) e (transform.localPosition);
+
+• Como utilizar (Debug.Log()) para investigar e encontrar erros durante o desenvolvimento;
+
+• Como configurar uma câmera temporária para observar e testar o comportamento de um sistema;
+
+• "Passe 4 horas do seu dia aprendendo hierarquia e debug do que 4 horas fazendo um sistema todo lascado" - UpperClassicau.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Aprender a debugar direito;
+
+• Revisar conteúdos que não estão tão consolidados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• PASSEI MAIS DE 4 HORAS FAZENDO UM SISTEMA DE INTERAÇÃO QUE TÁ TODO LASCADO.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• HOJE FOI O DIA MAIS CAÓTICO DE TODA A PROGRAMAÇÃO QUE EU JÁ VI NESTE PLANETA TERRA, resumidamente eu consegui fazer coordenadas simplesmente serem possuidas tentando fazer um sistema de um simples [E] na sua cara.
