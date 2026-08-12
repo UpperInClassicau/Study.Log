@@ -299,7 +299,7 @@
 ✅ UI
 
 🔊 Áudio:
-☐ Áudio
+✅ Áudio
 
 🎬 Animação:
 ☐ Animações

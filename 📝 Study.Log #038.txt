@@ -1,0 +1,38 @@
+📝 Study.Log | #038
+🗓️ Dia: 12/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 5 | Fase 73 — Audio.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Como utilizar Audio Source e Audio Clip;
+
+• O que é reverberação;
+
+• O que é 3D Audio;
+
+• Como utilizar um bool para tocar um som apenas uma vez a cada vez que acontece algo que o faz tocar.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Conteúdos que não estão tão consolidados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Aprimorei o meu código da porta utilizando o AudioSource.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.7/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia BEM mais calmo que o anterior, aproveitei que agora sabia utilizar audio e implementei ele no meu sistema de porta.
