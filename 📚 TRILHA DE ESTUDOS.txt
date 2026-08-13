@@ -302,7 +302,7 @@
 ✅ Áudio
 
 🎬 Animação:
-☐ Animações
+✅ Animações
 
 📖 Revisão:
 ☐ Revisão da Trilha
