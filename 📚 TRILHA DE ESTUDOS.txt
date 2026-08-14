@@ -136,143 +136,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-━━━━━━━━━━━━━━━━━━━━━━
-
-✅ Trilha 1 — Fundamentos da Lógica de Programação
-
-📦 Introdução:
-✅ O que é programação
-✅ Algoritmos
-✅ Fluxogramas
-✅ Pseudocódigo
-
-🧱 Dados:
-✅ Variáveis
-✅ Tipos de dados
-✅ Entrada e saída de dados
-
-🧮 Operadores:
-✅ Operadores aritméticos
-✅ Operador ternário (?:)
-✅ Operadores relacionais
-✅ Operadores lógicos
-
-🧠 Decisões:
-✅ if / else if / else
-✅ switch
-
-🔁 Repetições:
-✅ while
-✅ do...while
-✅ for
-✅ break e continue
-
-🎯 Prática:
-✅ Exercícios de lógica
-
-📖 Revisão:
-✅ Revisão da Trilha
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-✅ Trilha 2 — C# Básico
-
-📦 Fundamentos:
-✅ Constantes (const)
-✅ Escopo
-
-⚙️ Métodos:
-✅ Métodos
-✅ Parâmetros
-✅ Retorno
-
-🔄 Tipos:
-✅ Conversão de tipos
-✅ Nullable (?)
-
-📝 Texto:
-✅ Strings
-
-📚 Coleções:
-✅ Arrays
-✅ Listas
-✅ Matrizes
-✅ foreach
-
-🎲 Utilitários:
-✅ Random
-✅ DateTime
-
-🛡️ Segurança:
-✅ Tratamento de erros
-
-🌐 Versionamento:
-✅ Git
-✅ GitHub
-
-📖 Revisão:
-✅ Revisão da Trilha
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-✅ Trilha 3 — Programação Orientada a Objetos
-
-🏗️ Fundamentos:
-✅ Classes
-✅ Objetos
-✅ Atributos
-✅ Métodos
-
-🔨 Organização e Controle de Objetos:
-✅ Construtores
-✅ Modificadores de acesso (public, private, protected)
-✅ Encapsulamento
-✅ Propriedades
-
-🧬 Relação entre Classes:
-✅ Herança
-✅ Polimorfismo
-
-🧩 Abstração:
-✅ Classes abstratas
-✅ Interfaces
-
-⚙️ Recursos do C#:
-✅ enum
-✅ struct
-✅ Exceções
-
-📖 Revisão:
-✅ Revisão da Trilha
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-✅ Trilha 4 — Boas Práticas
-
-🗂️ Ordem:
-✅ Organização
-
-🏷️ Clareza:
-✅ Nomenclatura
-
-📝 Comunicação:
-✅ Comentários
-
-♻️ Aprimoramento:
-✅ Refatoração
-
-🔍 Investigação:
-✅ Debug
-
-💎 Maestria:
-✅ Clean Code
-
-📖 Revisão:
-✅ Revisão da Trilha
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🎮 Trilha 5 — Unity Básica
+✅ Trilha 5 — Unity Básica
 
 🖥️ Interface:
 ✅ Interface
@@ -305,31 +169,50 @@
 ✅ Animações
 
 📖 Revisão:
-☐ Revisão da Trilha
+✅ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 ⚙️ Trilha 6 — Programação na Unity
 
+📜 Scripts:
 ☐ Scripts
 ☐ Start()
 ☐ Update()
 ☐ SerializeField
+
+⏱️ Tempo e Componentes:
 ☐ Time.deltaTime
 ☐ GetComponent
-☐ Tags e Layers
+
+🏷️ Identificação:
+☐ Tags
+☐ Layers
+
+🎮 Controle:
 ☐ Input
 ☐ Movimento
-☐ Instanciar objetos (Instantiate)
-☐ Destruir objetos (Destroy)
+
+🧱 Objetos:
+☐ Instantiate
+☐ Destroy
+
+⏳ Execução:
 ☐ Coroutines
+
+📡 Comunicação:
 ☐ Eventos
+
+🧩 Arquitetura:
 ☐ Scriptable Objects
 ☐ Singleton
+
+💾 Sistemas:
 ☐ Save System
 ☐ Pause
 
-🔄 Revisão da Fase
+📖 Revisão:
+☐ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
