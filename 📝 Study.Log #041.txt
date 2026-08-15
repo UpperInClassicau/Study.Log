@@ -1,0 +1,46 @@
+📝 Study.Log | #041
+🗓️ Dia: 15/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 6 | Fase 76, 77, 78 e 79 — Script, Start(), Update() e SerializeField.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Entendi como funciona o atributo [ReadOnly];
+
+• Aprendi que variáveis private não aparecem no Inspector por padrão;
+
+• Aprendi a usar [SerializeField] para exibir variáveis private no Inspector;
+
+• Entendi a diferença entre private, [SerializeField] e [ReadOnly];
+
+• Aprendi que atributos personalizados podem modificar a forma como as variáveis são exibidas no Inspector;
+
+• Testei os tipos int, bool e string no Inspector;
+
+• Entendi que o código ainda pode alterar uma variável [ReadOnly], mesmo que ela não possa ser editada pelo Inspector;
+
+• Entendi melhor como o Inspector pode ser utilizado para visualizar e configurar sistemas.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Começar a produção do meu primeiro jogo assim que eu puder.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz testes utilizando o ReadOnly e o SerializeField.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem tranquilo e divertido, descobri coisas muito úteis pro futuro e eu tenho certeza que ovu utilizar alguma hora.

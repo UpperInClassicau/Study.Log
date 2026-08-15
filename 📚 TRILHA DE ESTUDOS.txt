@@ -176,10 +176,10 @@
 ⚙️ Trilha 6 — Programação na Unity
 
 📜 Scripts:
-☐ Scripts
-☐ Start()
-☐ Update()
-☐ SerializeField
+✅ Scripts
+✅ Start()
+✅ Update()
+✅ SerializeField
 
 ⏱️ Tempo e Componentes:
 ☐ Time.deltaTime
