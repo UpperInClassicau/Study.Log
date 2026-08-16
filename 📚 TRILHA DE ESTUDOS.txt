@@ -182,8 +182,8 @@
 ✅ SerializeField
 
 ⏱️ Tempo e Componentes:
-☐ Time.deltaTime
-☐ GetComponent
+✅ Time.deltaTime
+✅ GetComponent
 
 🏷️ Identificação:
 ☐ Tags

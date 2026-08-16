@@ -1,0 +1,36 @@
+📝 Study.Log | #042
+🗓️ Dia: 16/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 6 | Fase 80 e 81 — Time.deltaTime e GetComponent.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Time.deltaTime é uma ferramenta que ajuda a transformarações baseadas em frames em ações baseadas em tempo, deixando o comportamento consistente independente do FPS;
+
+• GetComponent é uma ferramenta que pega um component daquele GameObject que o script está dentro e cria uma referencia para ele, permitindo utilizar essa referencia para acessar e manipular o componente.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Terminar o sistema que comecei hoje;
+
+• Praticar um pouco sobre GetComponent.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Comecei um sistema de uma porta que abre com um botão a partir de um trigger.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia, talvez, legal, consegui terminar de estudar hoje e amanha eu quero terminar esse meu sistema da porta que abre com um botão logo, pois essa semana vai ser uma bem corrida, mas eu espero conseguir resolver tudo e terminar o trimestre com as notas, no mínimo, na média.
