@@ -1,0 +1,46 @@
+📝 Study.Log | #043
+🗓️ Dia: 17/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 6 | Fase 82 e 83 — Tags e Layers.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Entendi a diferença entre Tags e Layers, usando Tags para identificar/classificar objetos e Layers para agrupá-los;
+
+• Entendi o que é uma LayerMask e como ela permite selecionar quais Layers serão consideradas;
+
+• Entendi o conceito de Raycast e como ele pode detectar objetos na direção de um GameObject;
+
+• Aprendi a usar Physics.Raycast() e entendi transform.forward, out e RaycastHit;
+
+• Aprendi a acessar o nome do objeto atingido com hit.collider.gameObject.name;
+
+• Aprendi a alterar o texto de um TextMeshProUGUI através de uma referência no Inspector;
+
+• Consegui combinar Raycast + UI para mostrar na tela o nome do GameObject que a câmera está detectando.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Terminar projeto começado ontem;
+
+• Fazer 15 questões sobre 3 blocos importantes (quinta).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema de detecção do nome de algum GameObject utilizando Raycast e UI.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem legal, consegui terminar um sistema hoje que funcionou super bem, e amanha eu FINALMENTE vou aprender a contruir um player para eu poder melhorar os meus projetos em um milhão de vezes.

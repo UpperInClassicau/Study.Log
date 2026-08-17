@@ -186,8 +186,8 @@
 ✅ GetComponent
 
 🏷️ Identificação:
-☐ Tags
-☐ Layers
+✅ Tags
+✅ Layers
 
 🎮 Controle:
 ☐ Input
