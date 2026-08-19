@@ -1,0 +1,40 @@
+📝 Study.Log | #045
+🗓️ Dia: 19/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 6 | Fase 86 e 87 — Instantiate e Destroy.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Instantiate cria uma cópia de um objeto já existente no projeto durante a execução do jogo;
+
+• Destroy destrói um objeto já existente no projeto durante a execução do jogo;
+
+• Destroy também pode receber um tempo de espera para destruir o objeto depois de determinado período.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer sistema de movimento do jogador;
+
+• Limpar o código do sistema de movimento do jogador e do sistema de câmera do jogador;
+
+• Fazer 15 questões sobre 3 blocos importantes (quinta).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Refinei e terminei o sistema de câmera do jogador.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem calmo, consegui refinar o sistema de câmera do jogador e termina-lo, amanhã eu finalmente vou fazer o sistema de movimento do jogador, e também dar uma limpada e refinada no código dele caso for preciso.

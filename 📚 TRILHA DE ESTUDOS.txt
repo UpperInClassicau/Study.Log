@@ -194,8 +194,8 @@
 ✅ Movimento
 
 🧱 Objetos:
-☐ Instantiate
-☐ Destroy
+✅ Instantiate
+✅ Destroy
 
 ⏳ Execução:
 ☐ Coroutines
