@@ -1,0 +1,50 @@
+📝 Study.Log | #044
+🗓️ Dia: 18/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 6 | Fase 84 e 85 — Input e Movimento.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Input System permite detectar entradas do teclado e mouse através de Keyboard.current e Mouse.current;
+
+• wasPressedThisFrame detecta quando uma tecla ou botão foi pressionado naquele frame, enquanto IsPressed() verifica se ele continua pressionado;
+
+• Vector2 armazena dois valores, X e Y, e Mouse.current.delta.ReadValue() retorna a variação do movimento do mouse;
+
+• Transform pode ser usado como referência para acessar e modificar o Transform de outro GameObject;
+
+• Transform.Rotate() permite modificar a rotação de um objeto nos eixos X, Y e Z;
+
+• É possível separar a rotação horizontal do Player da rotação vertical da câmera para criar uma câmera em primeira pessoa;
+
+• CursorLockMode.Locked bloqueia o cursor no centro e CursorLockMode.Confined mantém o cursor dentro da janela;
+
+• Criei um sistema que alterna entre Locked e Confined com a tecla F e permite controlar a câmera com o botão direito enquanto o cursor está Confined.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Refinar sistema de movimento de câmera;
+
+• Fazer um sistema de movimento do player;
+
+• Fazer 15 questões sobre 3 blocos importantes (quinta).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema de movimento de câmera quase completo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia MUITO BOM, fiz o meu primeiro sistema mais completo que eu já fiz EM TODA A MINHA VIDA, e ele ficou muito bom, amanha pretendo refinar ele e fazer um outro sistema mas de movimento do player e quinta vou revisar esse bloco e os anteriores.

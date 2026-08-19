@@ -190,8 +190,8 @@
 ✅ Layers
 
 🎮 Controle:
-☐ Input
-☐ Movimento
+✅ Input
+✅ Movimento
 
 🧱 Objetos:
 ☐ Instantiate
