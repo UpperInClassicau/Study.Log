@@ -1,0 +1,48 @@
+📝 Study.Log | #046
+🗓️ Dia: 20/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 6 | Fase 88 — Coroutines.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Coroutines são métodos que podem pausar e continuar sua execução usando yield, sendo úteis para executar ações ao longo do tempo;
+
+• IEnumerator é usado para definir métodos que podem ser executados como Coroutines na Unity;
+
+• WaitForSeconds permite pausar uma Coroutine por determinado tempo;
+
+• Aprendi a transformar as teclas pressionadas em direções usando Vector3 e a movimentar um objeto usando transform.position;
+
+• Aprendi a diferença entre direções globais (Vector3.forward, Vector3.right etc.) e direções relativas ao objeto (transform.forward, transform.right etc.);
+
+• Aprendi que o negativo de um vetor representa a direção oposta, como -transform.forward e -transform.right;
+
+• Aprendi a usar Time.deltaTime para tornar o movimento independente da quantidade de frames por segundo;
+
+• Aprendi a detectar o momento em que uma tecla foi pressionada usando wasPressedThisFrame;
+
+• Aprendi a identificar problemas de direção e coordenadas no movimento observando o comportamento do sistema e relacionando os eixos do plano cartesiano com os vetores da Unity.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer as 15 questões em um momento calmo cara.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema """BÁSICO""" de movimento.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 10/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Cara, hoje foi o dia, MAS O DIA, por que eu passei todo o meu tempo do mundo programando, tentando entender um problema que eu não conseguia entender de forma alguma até que o plano cartesiano mental e a minha lógica de programação me salvou.

@@ -198,7 +198,7 @@
 ✅ Destroy
 
 ⏳ Execução:
-☐ Coroutines
+✅ Coroutines
 
 📡 Comunicação:
 ☐ Eventos
