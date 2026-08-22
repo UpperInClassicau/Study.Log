@@ -1,0 +1,42 @@
+📝 Study.Log | #047
+🗓️ Dia: 21/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 6 | Fase 89 — Eventos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Aprendi como funcionam Events em C# e como um evento pode chamar métodos quando uma determinada ação acontece;
+
+• Aprendi a usar Rigidbody, FixedUpdate() e AddForce() para movimentar um objeto utilizando física;
+
+• Aprendi a usar ForceMode.Impulse para aplicar uma força instantânea, como um pulo;
+
+• Aprendi a criar referências entre scripts usando GetComponentInParent() e a utilizar variáveis públicas de outro script;
+
+• Aprendi a utilizar OnTriggerEnter() e OnTriggerExit() para detectar quando um objeto entra ou sai de um Trigger.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Terminar sistema de movimento;
+
+• Fazer 15 questões sobre os 3 blocos importantes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz uma BOA parte do sistema de movimento, só falta terminar o pulo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia "calmo" entre aspas, faz BASTANTE coisa hoje e estou escrevendo esse Study.Log oficialmente nas meia noite de um sábado, o primeiro de todos a acontecer isso.

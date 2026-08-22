@@ -201,7 +201,7 @@
 ✅ Coroutines
 
 📡 Comunicação:
-☐ Eventos
+✅ Eventos
 
 🧩 Arquitetura:
 ☐ Scriptable Objects
