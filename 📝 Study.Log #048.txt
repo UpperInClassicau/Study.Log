@@ -1,0 +1,42 @@
+📝 Study.Log | #048
+🗓️ Dia: 22/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 6 | Fase 90 e 91 — Scriptable Objects e Singleton.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Scriptable Objects permitem armazenar dados reutilizáveis e separados dos GameObjects da cena;
+
+• Aprendi a criar Scriptable Objects utilizando o atributo CreateAssetMenu e a criar seus respectivos assets pelo Project;
+
+• Aprendi a fazer outros scripts referenciarem um Scriptable Object para utilizar os dados armazenados nele;
+
+• Entendi que Scriptable Objects são especialmente úteis quando diferentes objetos possuem o mesmo comportamento, mas precisam de dados diferentes;
+
+• Tive um primeiro contato com Singleton, mas não consegui estudar o assunto de forma completa.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer 15 questões sobre 3 blocos mais importantes (e eu acho que não vai dar essa trilha, por que eu estive muito ocupado essa semana, então talvez eu deixe para a revisão da trilha e na próxima triilha eu tento fazer elas);
+
+• Fazer um sistema de porta que abre com chave.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Dei uma leve revisada e treinada nos assuntos de hoje e também em métodos abstratos, classes abstratas e outras coisas que eu pensei em fazer só para compensar o dia.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.7/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi mais um dia de madrugagem por conta que eu sai pra um lugar, mas também um dia bem doido, eu fiz um código bem maluco com vários erros mas foi só para revisar alguns assuntos e treinar alguns assuntos também, hoje eu não consegui aprender singleton direito mas amanhã eu vou tentar.

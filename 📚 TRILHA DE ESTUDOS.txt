@@ -204,8 +204,8 @@
 ✅ Eventos
 
 🧩 Arquitetura:
-☐ Scriptable Objects
-☐ Singleton
+✅ Scriptable Objects
+✅ Singleton
 
 💾 Sistemas:
 ☐ Save System
