@@ -1,0 +1,50 @@
+📝 Study.Log | #049
+🗓️ Dia: 23/08/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 6 | Fase 92 e 93 — Save System e Pause.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Como funciona um Save System utilizando JSON para armazenar os dados do jogo;
+
+• A como utilizar [System.Serializable], JsonUtility, File.WriteAllText(), File.ReadAllText() e Application.persistentDataPath;
+
+• O Save System precisa ter acesso aos dados que representam o estado do jogo para conseguir salvá-los;
+
+• A diferença entre Pause e Save: o Pause interrompe a simulação temporariamente, enquanto o Save registra dados para serem recuperados posteriormente;
+
+• Sobre o Time.timeScale e Rigidbody.linearVelocity, além de entender melhor como Time.deltaTime se relaciona com movimentação e física.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer 15 questões sobre 3 blocos importantes (HOJE).
+
+• Coroutine;
+
+• Scriptable Object;
+
+• Singleton;
+
+• Time.timeScale / física.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema de Save e de Pause;
+
+• Fiz 15 questões sobre 3 blocos importantes (FINALMENTE).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem tranquilo, EU FINALMENTE PODEREI FAZER AS 15 QUESTÕES, e vou começar a semana MUITO mais leve, por conta que acabou as provas, só tenho uma recuperação pra fazer, e vai ser lá pro final do próximo mês, aliás, vou começar a fazer o GDD do meu jogo da guarita, mas eu sei, eu sei que alguem vai vir aqui nos meus logs procurar algum spoiler sobre o jogo, mas, sinto muito, você não conseguirá, hehehe.

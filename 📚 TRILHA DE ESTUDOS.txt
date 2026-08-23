@@ -208,8 +208,8 @@
 ✅ Singleton
 
 💾 Sistemas:
-☐ Save System
-☐ Pause
+✅ Save System
+✅ Pause
 
 📖 Revisão:
 ☐ Revisão da Trilha
