@@ -173,7 +173,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-⚙️ Trilha 6 — Programação na Unity
+✅ Trilha 6 — Programação na Unity
 
 📜 Scripts:
 ✅ Scripts
@@ -212,7 +212,7 @@
 ✅ Pause
 
 📖 Revisão:
-☐ Revisão da Trilha
+✅ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 

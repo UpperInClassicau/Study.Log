@@ -44,9 +44,9 @@ Este repositório reúne meus aprendizados, práticas, documentações e projeto
 
 ✅ Trilha 5 — Unity Básica
 
-🔄 Trilha 6 — Programação na Unity
+✅ Trilha 6 — Programação na Unity
 
-⬜ Trilha 7 — Sistemas de Jogos
+🔄 Trilha 7 — Sistemas de Jogos
 
 ⬜ Trilha 8 — Projetos
 
