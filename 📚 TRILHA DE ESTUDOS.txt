@@ -218,22 +218,50 @@
 
 🤖 Trilha 7 — Sistemas de Jogos
 
-☐ Inventário
+🎒 Inventário:
+✅ Inventário
+
+📦 Itens:
 ☐ Sistema de Itens
+
+💬 Diálogos:
 ☐ Diálogos
+
+🎯 Missões:
 ☐ Missões
+
+🧠 Inteligência Artificial:
 ☐ IA
+
+🗺️ Navegação:
 ☐ NavMesh
+
+🔄 Estados:
 ☐ Máquinas de Estado
+
+💾 Progressão:
 ☐ Checkpoints
+
+❤️ Vida:
 ☐ Sistema de Vida
+
+⚔️ Combate:
 ☐ Sistema de Dano
+
+🖐️ Interação:
 ☐ Sistema de Interação
+
+📡 Comunicação:
 ☐ Sistema de Eventos
+
+⚙️ Configurações:
 ☐ Sistema de Configurações
+
+💾 Persistência:
 ☐ Save/Load Avançado
 
-🔄 Revisão da Fase
+📖 Revisão:
+☐ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
