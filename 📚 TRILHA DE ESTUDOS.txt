@@ -222,7 +222,7 @@
 ✅ Inventário
 
 📦 Itens:
-☐ Sistema de Itens
+✅ Sistema de Itens
 
 💬 Diálogos:
 ☐ Diálogos
