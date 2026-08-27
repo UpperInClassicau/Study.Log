@@ -225,7 +225,7 @@
 ✅ Sistema de Itens
 
 💬 Diálogos:
-☐ Diálogos
+✅ Diálogos
 
 🎯 Missões:
 ☐ Missões
