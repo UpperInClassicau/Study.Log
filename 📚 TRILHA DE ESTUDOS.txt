@@ -228,7 +228,7 @@
 ✅ Diálogos
 
 🎯 Missões:
-☐ Missões
+✅ Missões
 
 🧠 Inteligência Artificial:
 ☐ IA
