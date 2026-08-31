@@ -231,10 +231,10 @@
 ✅ Missões
 
 🧠 Inteligência Artificial:
-☐ IA
+✅ IA
 
 🗺️ Navegação:
-☐ NavMesh
+✅ NavMesh
 
 🔄 Estados:
 ☐ Máquinas de Estado

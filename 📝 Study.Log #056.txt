@@ -1,0 +1,32 @@
+📝 Study.Log | #056
+🗓️ Dia: 01/09/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 7 | Fase 100 — NavMesh.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• O NavMesh pode ser utilizado para fazer IAs encontrarem caminhos pelo mapa e perseguirem um determinado objeto.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Conteúdos que não foram tão consolidados (acho que to com vontade de praticar eles amanhã).
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Aprimorei o meu sistema de IA utilizando oque aprendi hoje e melhorei o meu sistema de movimento, que estava um pouco bugado.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.8/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem bom, consegui melhorar dois sistemas meus e eles ficaram bem melhor, amanhã eu provavelmente vou fazer um mini mapa pra poder testar eles, e também, brevemente eu vou começar a produção do meu primeiro jogo.
