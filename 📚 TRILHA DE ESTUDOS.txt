@@ -237,7 +237,7 @@
 ✅ NavMesh
 
 🔄 Estados:
-☐ Máquinas de Estado
+✅ Máquinas de Estado
 
 💾 Progressão:
 ☐ Checkpoints
