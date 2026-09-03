@@ -1,0 +1,42 @@
+📝 Study.Log | #058
+🗓️ Dia: 03/09/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 7 | Fase 102 — Checkpoints.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Como funciona um sistema de Save/Load utilizando SaveData, JsonUtility e arquivos JSON;
+
+• Como salvar e carregar posição/rotação de objetos usando Vector3;
+
+• Como criar um sistema de checkpoint utilizando OnTriggerEnter, CompareTag() e enabled;
+
+• A diferença entre armazenar os dados e definir quando o salvamento deve acontecer.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Fazer 15 questões sobre 3 blocos importantes;
+
+• Fazer um mini mapa de terror para praticar um pouco e testar sistemas.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Refiz um sistema antigo meu para poder implementar o sistema de checkpoint hoje;
+
+• Fiz 15 questões sobre 3 blocos importantes.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem doido, eu pensei que iria demorar MUITO, mas não foi nem tanto assim, acredito que terça-feira da semana que vem eu irei começar a produção do meu primeiro jogo, eu estou realmente MUITO animado para fazer ele.

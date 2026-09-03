@@ -240,7 +240,7 @@
 ✅ Máquinas de Estado
 
 💾 Progressão:
-☐ Checkpoints
+✅ Checkpoints
 
 ❤️ Vida:
 ☐ Sistema de Vida
