@@ -1,0 +1,36 @@
+📝 Study.Log | #059
+🗓️ Dia: 04/09/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 7 | Fase 103 e 104 — Sistema de Vida e Sistema de Dano.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• É posssivel terminar o Play Mode da Unity por meio de script;
+
+• Detectar quando a vida chega em 0 para executar um sistema de morte.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Iniciar a produção do primeiro jogo;
+
+• Conteúdos que não foram tão consolidados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sitema de vida, um sistema de dano, um sistema de morte e melhorei o sistema de movimento meu.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia doido, mas bem produtivo, fiz duas partes da trilha de uma vez por que a única que eu ia fazer seria muito fácil, então resolvi fazer duas logo pois eu vou passar dois dias viajando denovo, então vem ai outros dois MILDESCULPAS :(.

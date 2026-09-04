@@ -243,10 +243,10 @@
 ✅ Checkpoints
 
 ❤️ Vida:
-☐ Sistema de Vida
+✅ Sistema de Vida
 
 ⚔️ Combate:
-☐ Sistema de Dano
+✅ Sistema de Dano
 
 🖐️ Interação:
 ☐ Sistema de Interação
