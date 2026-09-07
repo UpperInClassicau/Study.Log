@@ -249,7 +249,7 @@
 ✅ Sistema de Dano
 
 🖐️ Interação:
-☐ Sistema de Interação
+✅ Sistema de Interação
 
 📡 Comunicação:
 ☐ Sistema de Eventos
@@ -280,34 +280,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🌌 Trilha 9 — Projeto Principal
-
-☐ Planejamento
-☐ Protótipo
-☐ Gameplay
-☐ Interface
-☐ IA
-☐ Áudio
-☐ Save
-☐ Otimização
-
-🔄 Revisão da Fase
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 Trilha 10 — Publicação
-
-☐ Otimização
-☐ Build
-☐ Testes
-☐ Trailer
-☐ Página do jogo
-☐ Publicação
-☐ Atualizações
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🌟 Trilha 11 — Estudos Avançados (Opcional)
+🌟 Trilha 9 — Estudos Avançados
 
 ☐ Multiplayer
 ☐ IA Avançada
@@ -318,6 +291,33 @@
 ☐ Design Patterns
 ☐ Otimização Avançada
 ☐ Publicação em múltiplas plataformas
+
+🔄 Revisão da Fase
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🌌 Trilha 10 — Projeto Principal (SEM PRAZO FIXO)
+
+☐ Planejamento
+☐ Protótipo
+☐ Gameplay
+☐ Interface
+☐ IA
+☐ Áudio
+☐ Save
+☐ Otimização
+
+━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Trilha 11 — Publicação (SEM PRAZO FIXO)
+
+☐ Otimização
+☐ Build
+☐ Testes
+☐ Trailer
+☐ Página do jogo
+☐ Publicação
+☐ Atualizações
 
 ━━━━━━━━━━━━━━━━━━━━━━
 

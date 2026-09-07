@@ -50,11 +50,11 @@ Este repositório reúne meus aprendizados, práticas, documentações e projeto
 
 ⬜ Trilha 8 — Projetos
 
-⬜ Trilha 9 — Projeto Principal
+⬜ Trilha 9 — Estudos Avançados
 
-⬜ Trilha 10 — Publicação
+⬜ Trilha 10 — Projeto Principal (SEM PRAZO FIXO)
 
-⬜ Trilha 11 - Estudos Avançados
+⬜ Trilha 11 - Publicação (SEM PRAZO FIXO)
 
 # 📅 Início da Jornada
 

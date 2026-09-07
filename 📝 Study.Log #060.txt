@@ -1,0 +1,34 @@
+📝 Study.Log | #060
+🗓️ Dia: 07/09/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 7 | Fase 105 — Sistema de Interação.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Organização é algo importante em um projeto para que ele não fique bagunçado.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Começar o desenvolvimento do primeiro jogo;
+
+• Adicionar novas ideias ao GDD oficial do jogo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Melhorei meu sistema de porta fazendo um sistema de interação nela.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• HOJE É O GRANDE DIA, O GRANDE DIA EM QUE EU VOU COMEÇAR O GRANDE PRIMEIRO PROJETO E TAMBÉM, HOJE FAZ DOIS MESES DESDE QUE EU COMECEI TUDO, e também fiz algumas alterações necessárias na trilha e no README depois de pensar um pouco, então, agora eu vou começar uma nova e grande fase na minha vida de programador.
