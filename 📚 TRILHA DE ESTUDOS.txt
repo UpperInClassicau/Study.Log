@@ -252,7 +252,7 @@
 ✅ Sistema de Interação
 
 📡 Comunicação:
-☐ Sistema de Eventos
+✅ Sistema de Eventos
 
 ⚙️ Configurações:
 ☐ Sistema de Configurações

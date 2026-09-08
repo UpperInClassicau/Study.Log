@@ -1,0 +1,32 @@
+📝 Study.Log | #061
+🗓️ Dia: 08/09/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 7 | Fase 106 — Sistema de Eventos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• Dei uma revisada no conceito de eventos para relembrar e fazer o sistema.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Começar a produção real do jogo.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um pequeno sistema de eventos.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 10/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Ontem, era para eu começar a fazer o jogo, mas a Unity simplesmente decidiu que eu não iria fazer isso, então eu passei quase 3 horas tentando instalar a nova versão da Unity para eu começar a criar o projeto, no fim, deu tudo certo, então, HOJE será o grande dia que eu vou começar a produção do The Nighted Guardhouse.
