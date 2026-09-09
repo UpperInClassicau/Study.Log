@@ -255,7 +255,7 @@
 ✅ Sistema de Eventos
 
 ⚙️ Configurações:
-☐ Sistema de Configurações
+✅ Sistema de Configurações
 
 💾 Persistência:
 ☐ Save/Load Avançado

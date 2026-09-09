@@ -1,0 +1,32 @@
+📝 Study.Log | #062
+🗓️ Dia: 09/09/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 7 | Fase 107 — Sistema de Configurações.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• É possivel alterar um valor mantendo um botão pressionado.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Conteúdos que não foram tão consolidados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema BEM simples que pode alterar um valor apertando em um botão, meio que um mini-protótipo de um sistema de configurações.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Eu acho que hoje foi o dia mais rápido de todos os Study.Logs, por conta que eu vou fazer algo importante no meu jogo, então queria gastar bastante do meu tempo nele, então resolvi fazer algo bem simples hoje e vou partir para o projeto.
