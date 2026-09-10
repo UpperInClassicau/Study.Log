@@ -258,7 +258,7 @@
 ✅ Sistema de Configurações
 
 💾 Persistência:
-☐ Save/Load Avançado
+✅ Save/Load Avançado
 
 📖 Revisão:
 ☐ Revisão da Trilha

@@ -1,0 +1,36 @@
+📝 Study.Log | #063
+🗓️ Dia: 10/09/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 7 | Fase 108 — Save/Load Avançado.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• A posição do Rect Transform pode interferir na aparição da UI na tela do jogador;
+
+• É possível chamar um método no sistema de UI sem precisar de script.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Começar o planejamento do mapa do primeiro jogo;
+
+• Conteúdos que não foram tão consolidados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema de UI que chama o método Save e Load apertando botões.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 10/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia bem tranquilo, em breve vou começar a planejar o mapa do meu primeiro jogo e estou bem animado para isso, pois eu quero treinar bastante Blender e iluminação/atmosfera de terror.
