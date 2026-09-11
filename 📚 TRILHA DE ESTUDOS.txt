@@ -216,7 +216,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🤖 Trilha 7 — Sistemas de Jogos
+✅ Trilha 7 — Sistemas de Jogos
 
 🎒 Inventário:
 ✅ Inventário
@@ -261,22 +261,38 @@
 ✅ Save/Load Avançado
 
 📖 Revisão:
-☐ Revisão da Trilha
+✅ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
 🕹️ Trilha 8 — Projetos
 
+🏓 Pong:
 ☐ Pong
+
+🐍 Snake:
 ☐ Snake
+
+🐦 Flappy Bird:
 ☐ Flappy Bird
+
+👾 Space Invaders:
 ☐ Space Invaders
+
+🧱 Plataforma 2D:
 ☐ Plataforma 2D
+
+🔫 Top Down Shooter:
 ☐ Top Down Shooter
+
+👻 Jogo de Terror:
 ☐ Jogo de Terror
+
+🧩 Puzzle:
 ☐ Puzzle
 
-🔄 Revisão da Fase
+📖 Revisão:
+☐ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
