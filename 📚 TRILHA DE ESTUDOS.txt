@@ -268,7 +268,7 @@
 🕹️ Trilha 8 — Projetos
 
 🏓 Pong:
-☐ Pong
+✅ Pong
 
 🐍 Snake:
 ☐ Snake
