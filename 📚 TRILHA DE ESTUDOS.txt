@@ -271,7 +271,7 @@
 ✅ Pong
 
 🐍 Snake:
-☐ Snake
+✅ Snake
 
 🐦 Flappy Bird:
 ☐ Flappy Bird
