@@ -274,7 +274,7 @@
 ✅ Snake
 
 🐦 Flappy Bird:
-☐ Flappy Bird
+✅ Flappy Bird
 
 👾 Space Invaders:
 ☐ Space Invaders
