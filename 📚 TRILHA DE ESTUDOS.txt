@@ -277,7 +277,7 @@
 ✅ Flappy Bird
 
 👾 Space Invaders:
-☐ Space Invaders
+✅ Space Invaders
 
 🧱 Plataforma 2D:
 ☐ Plataforma 2D

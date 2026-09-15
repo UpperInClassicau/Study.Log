@@ -1,0 +1,32 @@
+📝 Study.Log | #068
+🗓️ Dia: 15/09/2026
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Meta diária:
+• Trilha 8 | Fase 113 — Space Invaders.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Aprendi:
+• É possivel criar um laço de repetição apenas usando uma coroutine.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔄 Revisar:
+• Conteúdos que não foram tão consolidados.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🍎 Pratiquei:
+• Fiz um sistema bem simples de tiro e reutilizei o meu sistema de flappy bird pra fazer o projeto de hoje.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Entendimento:
+• 9.9/10
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📋 Observações:
+• Hoje foi um dia calmo, fiz um sistema bem simples de Space Invaders e deu tudo certo, e estou bem próximo de terminar a trilha de estudos, eu não sei qual será o rumo do Study.Log nem o rumo do GitHub depois que eu terminar a trilha de estudos, eu ainda estou decidindo mas acho que vou continuar fazendo os meus jogos com calma e me mantendo atualizado nas redes sociais que eu criei quando eu começar a ficar ativo depois de publicar o meu primeiro jogo.
