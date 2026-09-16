@@ -280,7 +280,7 @@
 ✅ Space Invaders
 
 🧱 Plataforma 2D:
-☐ Plataforma 2D
+✅ Plataforma 2D
 
 🔫 Top Down Shooter:
 ☐ Top Down Shooter
