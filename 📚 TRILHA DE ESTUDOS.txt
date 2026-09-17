@@ -283,7 +283,7 @@
 ✅ Plataforma 2D
 
 🔫 Top Down Shooter:
-☐ Top Down Shooter
+✅ Top Down Shooter
 
 👻 Jogo de Terror:
 ☐ Jogo de Terror
@@ -293,47 +293,6 @@
 
 📖 Revisão:
 ☐ Revisão da Trilha
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🌟 Trilha 9 — Estudos Avançados
-
-☐ Multiplayer
-☐ IA Avançada
-☐ Shaders
-☐ Addressables
-☐ Cloud Save
-☐ Matemática para Jogos
-☐ Design Patterns
-☐ Otimização Avançada
-☐ Publicação em múltiplas plataformas
-
-🔄 Revisão da Fase
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🌌 Trilha 10 — Projeto Principal (SEM PRAZO FIXO)
-
-☐ Planejamento
-☐ Protótipo
-☐ Gameplay
-☐ Interface
-☐ IA
-☐ Áudio
-☐ Save
-☐ Otimização
-
-━━━━━━━━━━━━━━━━━━━━━━
-
-🚀 Trilha 11 — Publicação (SEM PRAZO FIXO)
-
-☐ Otimização
-☐ Build
-☐ Testes
-☐ Trailer
-☐ Página do jogo
-☐ Publicação
-☐ Atualizações
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
