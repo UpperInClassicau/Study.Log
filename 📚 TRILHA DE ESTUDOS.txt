@@ -286,7 +286,7 @@
 ✅ Top Down Shooter
 
 👻 Jogo de Terror:
-☐ Jogo de Terror
+✅ Jogo de Terror
 
 🧩 Puzzle:
 ☐ Puzzle
