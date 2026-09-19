@@ -289,7 +289,7 @@
 ✅ Jogo de Terror
 
 🧩 Puzzle:
-☐ Puzzle
+✅ Puzzle
 
 📖 Revisão:
 ☐ Revisão da Trilha
