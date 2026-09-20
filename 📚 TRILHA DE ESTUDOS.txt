@@ -265,7 +265,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━
 
-🕹️ Trilha 8 — Projetos
+✅ Trilha 8 — Projetos
 
 🏓 Pong:
 ✅ Pong
@@ -292,7 +292,7 @@
 ✅ Puzzle
 
 📖 Revisão:
-☐ Revisão da Trilha
+✅ Revisão da Trilha
 
 ━━━━━━━━━━━━━━━━━━━━━━
 

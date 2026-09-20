@@ -48,7 +48,7 @@ Este repositório reúne meus aprendizados, práticas, documentações e projeto
 
 ✅ Trilha 7 — Sistemas de Jogos
 
-🔄 Trilha 8 — Projetos
+✅ Trilha 8 — Projetos
 
 # 📅 Início da Jornada
 
